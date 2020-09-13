@@ -21,5 +21,5 @@
 
 ### Deep Learning
 
-* [2017] **Neural Collaborative Filtering**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3038912.3052569)]
+* [2017] **Neural Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/www17-ncf.pdf)]
 
