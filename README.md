@@ -15,3 +15,11 @@
 * [2009] BiasSVD: **Matrix Factorization Techniques for Recommender Systems**. [[PDF](http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/ieeecomputer.pdf)]
 * [2010] timeSVD: **Collaborative filtering with temporal dynamics**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1721654.1721677)]
 
+### Knowledge Graph
+
+* [2016] **Collaborative Knowledge Base Embedding for Recommender Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2939672.2939673)]
+
+### Deep Learning
+
+* [2017] **Neural Collaborative Filtering**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3038912.3052569)]
+
