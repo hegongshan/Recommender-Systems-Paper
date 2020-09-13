@@ -2,9 +2,9 @@
 
 #### Neighbor-based
 
-* [2001] ItemCF: **Item-Based Collaborative Filtering Recommendation Algorithms**, [[PDF](https://dl.acm.org/doi/pdf/10.1145/371920.372071)]
-* [2003] **Amazon.com recommendations: item-to-item collaborative filtering**, [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1167344)]
-* [2005] Slope One: **Slope One Predictors for Online Rating-Based Collaborative Filtering**,  [[PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972757.43)]
+* [2001] ItemCF: **Item-Based Collaborative Filtering Recommendation Algorithms**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/371920.372071)]
+* [2003] **Amazon.com recommendations: item-to-item collaborative filtering**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1167344)]
+* [2005] Slope One: **Slope One Predictors for Online Rating-Based Collaborative Filtering**. [[PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972757.43)]
 
 #### Model-based
 
