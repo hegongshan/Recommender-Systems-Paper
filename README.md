@@ -1,6 +1,6 @@
-## Recommender Systems
+## Recommender Systems (RS)
 
-* [1.Collaborative Filtering (CF) based Recommender Systems](#collaborative-filtering)
+* [1.Collaborative Filtering based Recommender Systems](#collaborative-filtering)
   * [1.1 Neighborhood-based CF](#neighborhood-based)
   * [1.2 Model-based CF](#model-based)
 * [2.Content-based Recommender Systems](#content-based)
