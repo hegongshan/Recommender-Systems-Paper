@@ -8,7 +8,7 @@
 * [4.Deep Learning based  Recommender Systems](#deep-learning)
   * [4.1 Multilayer Perceptron](#multilayer-perceptron-mlp)
   * [4.2 Autoencoders](#autoencoders-ae)
-  * [4.3 Graph Convolutional Network](#graph-convolutional-network-gcn)
+  * [4.3 Graph Neural Network](#graph-neural-network-gnn)
 * [5.Click-Through Rate (CTR) Prediction](#click-through-rate-ctr-prediction)
 * [6.Others](#others)
   * [6.1 Ranking](#ranking)
@@ -58,6 +58,7 @@
 * [2016] **Deep Neural Networks for YouTube Recommendations**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190)]
 * [2016] **Wide & Deep Learning for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1606.07792.pdf)]
 * [2017] NCF: **Neural Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/www17-ncf.pdf)] [[Codes](https://github.com/hexiangnan/neural_collaborative_filtering)]
+* [2019] **DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System**. [[PDF](https://arxiv.org/pdf/1901.04704.pdf)] [[Codes](https://github.com/familyld/DeepCF)]
 
 #### Autoencoders (AE)
 
@@ -65,7 +66,7 @@
 * [2016] CDAE: **Collaborative Denoising Auto-Encoders for Top-N Recommender Systems**. [[PDF](http://www.alicezheng.org/papers/wsdm16-cdae.pdf)]
 * [2018] VAE: **Variational Autoencoders for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1802.05814.pdf)] [[Codes](https://github.com/dawenl/vae_cf)]
 
-#### Graph Convolutional Network (GCN)
+#### Graph Neural Network (GNN)
 
 * [2020] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)]
 
