@@ -11,7 +11,7 @@
   * [4.3 Graph Neural Network](#graph-neural-network-gnn)
 * [5.Click-Through Rate (CTR) Prediction](#click-through-rate-ctr-prediction)
 * [6.Others](#others)
-  * [6.1 Ranking](#ranking)
+  * [6.1 Learn to Rank](#learn-to-rank-ltr)
   * [6.2 Evaluation Metrics](#evaluation-metrics)
   * [6.3 Embedding](#embedding)
 
@@ -73,13 +73,14 @@
 
 ### Click-Through Rate (CTR) Prediction
 
-* [2017] DIN: **Deep Interest Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1706.06978.pdf)]
+* [2018] DIN: **Deep Interest Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1706.06978.pdf)]
 
 ### Others
 
-#### Ranking
+#### Learn to Rank (LTR)
 
 * [2009] **BPR: Bayesian Personalized Ranking from Implicit Feedback**. [[PDF](https://arxiv.org/pdf/1205.2618.pdf)]
+* [2012] **CLiMF: Learning to Maximize Reciprocal Rank with Collaborative Less-is-More Filtering**. [[PDF](https://www.researchgate.net/profile/Alexandros_Karatzoglou/publication/241276529_CLiMF_Learning_to_Maximize_Reciprocal_Rank_with_Collaborative_Less-is-More_Filtering/links/0deec51f752a9714bd000000/CLiMF-Learning-to-Maximize-Reciprocal-Rank-with-Collaborative-Less-is-More-Filtering.pdf)]
 
 #### Evaluation Metrics
 
