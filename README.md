@@ -39,6 +39,7 @@
 * [2010] PureSVD: **Performance of Recommender Algorithms on Top-N Recommendation Tasks**. [[PDF](https://tooob.com/api/objs/read/noteid/28575258/)]
 * [2013] **FISM: Factored Item Similarity Models for Top-N Recommender Systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/fismkdd13.pdf)]
 * [2014] Logistic MF: **Logistic Matrix Factorization for Implicit Feedback Data**. [[PDF](http://stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf)] [[Codes](https://github.com/MrChrisJohnson/logistic-mf)]
+* [2016] eALS: **Fast Matrix Factorization for Online Recommendation with Implicit Feedback**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf)] [[Codes](https://github.com/hexiangnan/sigir16-eals/)]
 * [2020] **Neural Collaborative Filtering vs. Matrix Factorization Revisited**. [[PDF](https://arxiv.org/pdf/2005.09683.pdf)] [[Codes](https://github.com/google-research/google-research/tree/master/dot_vs_learned_similarity)]
 
 ### Content-based
@@ -81,7 +82,6 @@
 
 * [2009] **BPR: Bayesian Personalized Ranking from Implicit Feedback**. [[PDF](https://arxiv.org/pdf/1205.2618.pdf)]
 * [2012] **CLiMF: Learning to Maximize Reciprocal Rank with Collaborative Less-is-More Filtering**. [[PDF](https://www.researchgate.net/profile/Alexandros_Karatzoglou/publication/241276529_CLiMF_Learning_to_Maximize_Reciprocal_Rank_with_Collaborative_Less-is-More_Filtering/links/0deec51f752a9714bd000000/CLiMF-Learning-to-Maximize-Reciprocal-Rank-with-Collaborative-Less-is-More-Filtering.pdf)]
-* [2016] eALS: **Fast Matrix Factorization for Online Recommendation with Implicit Feedback**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf)] [[Codes](https://github.com/hexiangnan/sigir16-eals/)]
 
 #### Evaluation Metrics
 
