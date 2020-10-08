@@ -78,7 +78,7 @@
 
 * [2018] DIN: **Deep Interest Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1706.06978.pdf)]
 
-#### Learning to Rank (LTR)
+### Learning to Rank (LTR)
 
 #### Pairwise LTR
 
