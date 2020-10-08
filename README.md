@@ -10,10 +10,12 @@
   * [4.2 Autoencoders](#autoencoders-ae)
   * [4.3 Graph Neural Network](#graph-neural-network-gnn)
 * [5.Click-Through Rate (CTR) Prediction](#click-through-rate-ctr-prediction)
-* [6.Others](#others)
-  * [6.1 Learn to Rank](#learn-to-rank-ltr)
-  * [6.2 Evaluation Metrics](#evaluation-metrics)
-  * [6.3 Embedding](#embedding)
+* [6 learning to Rank](#learning-to-rank-ltr)
+  * [6.1 Pairwise LTR](#pairwise-ltr)
+  * [6.2 Listwise LTR](#listwise-ltr)
+* [7.Others](#others)
+  * [7.1 Evaluation Metrics](#evaluation-metrics)
+  * [7.2 Embedding](#embedding)
 
 ### Collaborative Filtering
 
@@ -76,12 +78,22 @@
 
 * [2018] DIN: **Deep Interest Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1706.06978.pdf)]
 
-### Others
+#### Learning to Rank (LTR)
 
-#### Learn to Rank (LTR)
+#### Pairwise LTR
 
 * [2009] **BPR: Bayesian Personalized Ranking from Implicit Feedback**. [[PDF](https://arxiv.org/pdf/1205.2618.pdf)]
+* [2018] **CPLR: Collaborative pairwise learning to rank for personalized recommendation**. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705118300819)]
+
+#### Listwise LTR
+
+* [2007] **COFI RANK - Maximum Margin Matrix Factorization for Collaborative Ranking**. [[PDF](http://papers.nips.cc/paper/3359-cofi-rank-maximum-margin-matrix-factorization-for-collaborative-ranking.pdf)] [[Codes](https://github.com/markusweimer/cofirank)]
+
+* [2010] ListRankMF: **List-wise Learning to Rank with Matrix Factorization for Collaborative Filtering**. [[PDF](http://dmirlab.tudelft.nl/sites/default/files/List-wise%20learning%20to%20rank%20with%20matrix%20factorization%20for%20collaborative%20filtering_RecSys2010.pdf)]
 * [2012] **CLiMF: Learning to Maximize Reciprocal Rank with Collaborative Less-is-More Filtering**. [[PDF](https://www.researchgate.net/profile/Alexandros_Karatzoglou/publication/241276529_CLiMF_Learning_to_Maximize_Reciprocal_Rank_with_Collaborative_Less-is-More_Filtering/links/0deec51f752a9714bd000000/CLiMF-Learning-to-Maximize-Reciprocal-Rank-with-Collaborative-Less-is-More-Filtering.pdf)]
+* [2015] **Collaborative Ranking with a Push at the Top**. [[PDF](https://www-users.cs.umn.edu/~baner029/papers/15/collab-ranking.pdf)]
+
+### Others
 
 #### Evaluation Metrics
 
