@@ -27,7 +27,6 @@
 * [2003] **Amazon.com recommendations: item-to-item collaborative filtering**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1167344)]
 * [2004] **Item-Based Top-N Recommendation Algorithms**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/itemrsTOIS04.pdf)]
 * [2005] Slope One: **Slope One Predictors for Online Rating-Based Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/cs/0702144.pdf)]
-* [2011] **Slim: Sparse linear methods for top-n recommender systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf)]
 
 #### Model-based
 
@@ -41,6 +40,7 @@
 * [2009] timeSVD: **Collaborative filtering with temporal dynamics**. [[PDF](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p447-koren.pdf)]
 * [2009] **Matrix Factorization Techniques for Recommender Systems**. [[PDF](http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/ieeecomputer.pdf)]
 * [2010] PureSVD: **Performance of Recommender Algorithms on Top-N Recommendation Tasks**. [[PDF](https://tooob.com/api/objs/read/noteid/28575258/)]
+* [2011] **Slim: Sparse linear methods for top-n recommender systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf)]
 * [2013] **FISM: Factored Item Similarity Models for Top-N Recommender Systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/fismkdd13.pdf)]
 * [2014] Logistic MF: **Logistic Matrix Factorization for Implicit Feedback Data**. [[PDF](http://stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf)] [[Codes](https://github.com/MrChrisJohnson/logistic-mf)]
 * [2016] eALS: **Fast Matrix Factorization for Online Recommendation with Implicit Feedback**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf)] [[Codes](https://github.com/hexiangnan/sigir16-eals/)]
@@ -74,15 +74,20 @@
 
 ### Click-Through Rate (CTR) Prediction
 
-* [2018] DIN: **Deep Interest Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1706.06978.pdf)]
+* [2016 RecSys] FFM: **Field-aware Factorization Machines for CTR Prediction**. [[PDF](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)]
+
+* [2017 IJCAI] **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction**. [[PDF](https://www.ijcai.org/Proceedings/2017/0239.pdf)]
+
+* [2018 KDD] DIN: **Deep Interest Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1706.06978.pdf)]
 
 ### Learning to Rank (LTR)
 
 #### Pairwise LTR
 
 * [2008] **EigenRank: A Ranking-Oriented Approach to Collaborative Filtering**. [[PDF](http://www.cse.ust.hk/faculty/qyang/Docs/2008/SIGIR297-liu.pdf)]
-
 * [2009] **BPR: Bayesian Personalized Ranking from Implicit Feedback**. [[PDF](https://arxiv.org/pdf/1205.2618.pdf)]
+* [2012] **Collaborative Ranking**. [[PDF](https://dl.acm.org/doi/10.1145/2124295.2124314)]
+* [2014] LCR: **Local Collaborative Ranking**. [[PDF](http://bengio.abracadoudou.com/cv/publications/pdf/lee_2014_www.pdf)]
 * [2014] **VSRank: A Novel Framework for Ranking-Based Collaborative Filtering**. [[PDF](https://www.researchgate.net/profile/Shuaiqiang_Wang/publication/281834407_VSRank_A_Novel_Framework_for_Ranking-Based_Collaborative_Filtering/links/55fa691408aec948c4a734a8.pdf)]
 * [2018] **CPLR: Collaborative pairwise learning to rank for personalized recommendation**. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705118300819)]
 
@@ -94,6 +99,7 @@
 * [2012] **TFMAP: Optimizing MAP for Top-N Context-aware Recommendation**. [[PDF](http://dmirlab.tudelft.nl/sites/default/files/SIGIR2012-TFMAP-shi.pdf)]
 * [2015] **Collaborative Ranking with a Push at the Top**. [[PDF](https://www-users.cs.umn.edu/~baner029/papers/15/collab-ranking.pdf)]
 * [2015] ListCF: **Listwise Collaborative Filtering**. [[PDF](http://users.jyu.fi/~swang/publications/SIGIR15.pdf)]
+* [2016] **Ranking-Oriented Collaborative Filtering: A Listwise Approach**. [[PDF]()]
 
 ### Graph-based RS
 
