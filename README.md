@@ -8,14 +8,16 @@
 * [4.Deep Learning based  Recommender Systems](#deep-learning)
   * [4.1 Multilayer Perceptron](#multilayer-perceptron-mlp)
   * [4.2 Autoencoders](#autoencoders-ae)
-  * [4.3 Graph Neural Network](#graph-neural-network-gnn)
 * [5.Click-Through Rate (CTR) Prediction](#click-through-rate-ctr-prediction)
-* [6 learning to Rank](#learning-to-rank-ltr)
+* [6.Learning to Rank (LTR)](#learning-to-rank-ltr)
   * [6.1 Pairwise LTR](#pairwise-ltr)
   * [6.2 Listwise LTR](#listwise-ltr)
-* [7.Others](#others)
-  * [7.1 Evaluation Metrics](#evaluation-metrics)
-  * [7.2 Embedding](#embedding)
+* [7.Graph-based RS](#graph-based-rs)
+  * [7.1 Graph Neural Network](#graph-neural-network-gnn)
+* [8.Social Recommendation](#social-recommendation)
+* [9.Others](#others)
+  * [9.1 Evaluation Metrics](#evaluation-metrics)
+  * [9.2 Embedding](#embedding)
 
 ### Collaborative Filtering
 
@@ -70,10 +72,6 @@
 * [2016] CDAE: **Collaborative Denoising Auto-Encoders for Top-N Recommender Systems**. [[PDF](http://www.alicezheng.org/papers/wsdm16-cdae.pdf)]
 * [2018] VAE: **Variational Autoencoders for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1802.05814.pdf)] [[Codes](https://github.com/dawenl/vae_cf)]
 
-#### Graph Neural Network (GNN)
-
-* [2020] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)]
-
 ### Click-Through Rate (CTR) Prediction
 
 * [2018] DIN: **Deep Interest Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1706.06978.pdf)]
@@ -82,16 +80,40 @@
 
 #### Pairwise LTR
 
+* [2008] **EigenRank: A Ranking-Oriented Approach to Collaborative Filtering**. [[PDF](http://www.cse.ust.hk/faculty/qyang/Docs/2008/SIGIR297-liu.pdf)]
+
 * [2009] **BPR: Bayesian Personalized Ranking from Implicit Feedback**. [[PDF](https://arxiv.org/pdf/1205.2618.pdf)]
+* [2014] **VSRank: A Novel Framework for Ranking-Based Collaborative Filtering**. [[PDF](https://www.researchgate.net/profile/Shuaiqiang_Wang/publication/281834407_VSRank_A_Novel_Framework_for_Ranking-Based_Collaborative_Filtering/links/55fa691408aec948c4a734a8.pdf)]
 * [2018] **CPLR: Collaborative pairwise learning to rank for personalized recommendation**. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705118300819)]
 
 #### Listwise LTR
 
 * [2007] **COFI RANK - Maximum Margin Matrix Factorization for Collaborative Ranking**. [[PDF](http://papers.nips.cc/paper/3359-cofi-rank-maximum-margin-matrix-factorization-for-collaborative-ranking.pdf)] [[Codes](https://github.com/markusweimer/cofirank)]
-
 * [2010] ListRankMF: **List-wise Learning to Rank with Matrix Factorization for Collaborative Filtering**. [[PDF](http://dmirlab.tudelft.nl/sites/default/files/List-wise%20learning%20to%20rank%20with%20matrix%20factorization%20for%20collaborative%20filtering_RecSys2010.pdf)]
 * [2012] **CLiMF: Learning to Maximize Reciprocal Rank with Collaborative Less-is-More Filtering**. [[PDF](https://www.researchgate.net/profile/Alexandros_Karatzoglou/publication/241276529_CLiMF_Learning_to_Maximize_Reciprocal_Rank_with_Collaborative_Less-is-More_Filtering/links/0deec51f752a9714bd000000/CLiMF-Learning-to-Maximize-Reciprocal-Rank-with-Collaborative-Less-is-More-Filtering.pdf)]
+* [2012] **TFMAP: Optimizing MAP for Top-N Context-aware Recommendation**. [[PDF](http://dmirlab.tudelft.nl/sites/default/files/SIGIR2012-TFMAP-shi.pdf)]
 * [2015] **Collaborative Ranking with a Push at the Top**. [[PDF](https://www-users.cs.umn.edu/~baner029/papers/15/collab-ranking.pdf)]
+* [2015] ListCF: **Listwise Collaborative Filtering**. [[PDF](http://users.jyu.fi/~swang/publications/SIGIR15.pdf)]
+
+### Graph-based RS
+
+* [2014] **Random Walks in Recommender Systems: Exact Computation and Simulations**. [[PDF](https://nms.kcl.ac.uk/colin.cooper/papers/recommender-rw.pdf)]
+
+#### Graph Neural Network (GNN)
+
+* [2018] **Graph Convolutional Neural Networks for Web-Scale Recommender Systems**. [[PDF](https://arxiv.org/pdf/1806.01973.pdf)]
+
+* [2020] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)]
+
+### Social Recommendation
+
+* [2008] **SoRec: Social Recommendation Using Probabilistic Matrix Factorization**. [[PDF](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/people/bo_xu/paper_cikm08_sorec_hao.pdf)]
+* [2009] RSTE: **Learning to Recommend with Social Trust Ensemble**. [[PDF](http://www.cse.cuhk.edu.hk/~king/PUB/SIGIR2009-p203.pdf)]
+* [2010] SociaMF: **A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks**. [[PDF](http://web.cs.ucla.edu/~yzsun/classes/2014Spring_CS7280/Papers/Recommendation/p135-jamali.pdf)]
+* [2011] SoReg: **Recommender systems with social regularization**. [[PDF](https://dl.acm.org/doi/10.1145/1935826.1935877)]
+* [2013] TrustMF: **Social Collaborative Filtering by Trust**. [[PDF](https://www.ijcai.org/Proceedings/13/Papers/404.pdf)]
+
+* [2015] **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings**. [[PDF](https://guoguibing.github.io/papers/guo2015trustsvd.pdf)]
 
 ### Others
 
