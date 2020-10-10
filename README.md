@@ -71,7 +71,7 @@
 * [2015] **AutoRec: Autoencoders Meet Collaborative Filtering**. [[PDF](http://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)]
 * [2016] CDAE: **Collaborative Denoising Auto-Encoders for Top-N Recommender Systems**. [[PDF](http://www.alicezheng.org/papers/wsdm16-cdae.pdf)]
 * [2017 KDD] CVAE: **Collaborative Variational Autoencoder for Recommender Systems**. [[PDF](http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)]
-* [2018] Mult-VAE: **Variational Autoencoders for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1802.05814.pdf)] [[Codes](https://github.com/dawenl/vae_cf)]
+* [2018 WWW] Mult-VAE: **Variational Autoencoders for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1802.05814.pdf)] [[Codes](https://github.com/dawenl/vae_cf)]
 
 ### Click-Through Rate (CTR) Prediction
 
@@ -106,7 +106,16 @@
 
 ### Graph-based Recommendation
 
-* [2014] **Random Walks in Recommender Systems: Exact Computation and Simulations**. [[PDF](https://nms.kcl.ac.uk/colin.cooper/papers/recommender-rw.pdf)]
+* [2003 TKDE] **Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search**. [[PDF](https://ieeexplore.ieee.org/document/1208999)]
+* [2007 IJCAI] **ItemRank: A Random-Walk Based Scoring Algorithm for Recommender Engines**. [[PDF](https://www.ijcai.org/Proceedings/07/Papers/444.pdf)]
+
+* [2012 CIKM] **PathRank: A Novel Node Ranking Measure on a Heterogeneous Graph for Recommender Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2396761.2398488)]
+
+* [2013 ESWA] **PathRank: Ranking nodes on a heterogeneous graph for flexible hybrid recommender systems**. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417412009657)]
+
+* [2014 WWW] **Random Walks in Recommender Systems: Exact Computation and Simulations**. [[PDF](https://nms.kcl.ac.uk/colin.cooper/papers/recommender-rw.pdf)]
+* [2016 TKDE] HeteRS: **A General Recommendation Model for Heterogeneous Networks**. [[PDF](https://ieeexplore.ieee.org/document/7546911)]
+* [2018 WSDM] HeteLearn: **Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3159652.3159715)]
 
 #### Graph Neural Network (GNN)
 
