@@ -79,6 +79,8 @@
 * [2017 IJCAI] **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction**. [[PDF](https://www.ijcai.org/Proceedings/2017/0239.pdf)]
 
 * [2018 KDD] DIN: **Deep Interest Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1706.06978.pdf)]
+* [2019 AAAI] DIEN: **Deep Interest Evolution Network for Click-Through Rate Prediction**. [[PDF](https://arxiv.org/pdf/1809.03672.pdf)]
+* [2019 IJCAI] DSIN: **Deep Session Interest Network for Click-Through Rate Prediction**. [[PDF](https://www.ijcai.org/Proceedings/2019/0319.pdf)]
 
 ### Learning to Rank (LTR)
 
