@@ -12,7 +12,7 @@
 * [6.Learning to Rank (LTR)](#learning-to-rank-ltr)
   * [6.1 Pairwise LTR](#pairwise-ltr)
   * [6.2 Listwise LTR](#listwise-ltr)
-* [7.Graph-based RS](#graph-based-rs)
+* [7.Graph-based Recommendation](#graph-based-recommendation)
   * [7.1 Graph Neural Network](#graph-neural-network-gnn)
 * [8.Social Recommendation](#social-recommendation)
 * [9.Others](#others)
@@ -70,7 +70,8 @@
 
 * [2015] **AutoRec: Autoencoders Meet Collaborative Filtering**. [[PDF](http://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)]
 * [2016] CDAE: **Collaborative Denoising Auto-Encoders for Top-N Recommender Systems**. [[PDF](http://www.alicezheng.org/papers/wsdm16-cdae.pdf)]
-* [2018] VAE: **Variational Autoencoders for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1802.05814.pdf)] [[Codes](https://github.com/dawenl/vae_cf)]
+* [2017 KDD] CVAE: **Collaborative Variational Autoencoder for Recommender Systems**. [[PDF](http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)]
+* [2018] Mult-VAE: **Variational Autoencoders for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1802.05814.pdf)] [[Codes](https://github.com/dawenl/vae_cf)]
 
 ### Click-Through Rate (CTR) Prediction
 
@@ -103,7 +104,7 @@
 * [2015] ListCF: **Listwise Collaborative Filtering**. [[PDF](http://users.jyu.fi/~swang/publications/SIGIR15.pdf)]
 * [2016] **Ranking-Oriented Collaborative Filtering: A Listwise Approach**. [[PDF]()]
 
-### Graph-based RS
+### Graph-based Recommendation
 
 * [2014] **Random Walks in Recommender Systems: Exact Computation and Simulations**. [[PDF](https://nms.kcl.ac.uk/colin.cooper/papers/recommender-rw.pdf)]
 
