@@ -110,14 +110,14 @@
 
 * [2003 TKDE] **Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search**. [[PDF](https://ieeexplore.ieee.org/document/1208999)]
 * [2007 IJCAI] **ItemRank: A Random-Walk Based Scoring Algorithm for Recommender Engines**. [[PDF](https://www.ijcai.org/Proceedings/07/Papers/444.pdf)]
-
 * [2012 CIKM] **PathRank: A Novel Node Ranking Measure on a Heterogeneous Graph for Recommender Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2396761.2398488)]
-
 * [2013 ESWA] **PathRank: Ranking nodes on a heterogeneous graph for flexible hybrid recommender systems**. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417412009657)]
-
 * [2014 WWW] **Random Walks in Recommender Systems: Exact Computation and Simulations**. [[PDF](https://nms.kcl.ac.uk/colin.cooper/papers/recommender-rw.pdf)]
+* [2014 WSDM] HeteRec: **Personalized Entity Recommendation: A Heterogeneous Information Network Approach**.  [[PDF](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf)]
 * [2016 TKDE] HeteRS: **A General Recommendation Model for Heterogeneous Networks**. [[PDF](https://ieeexplore.ieee.org/document/7546911)]
+* [2017 KDD] FMG: **Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks**. [[PDF](https://www.researchgate.net/publication/317523407_Meta-Graph_Based_Recommendation_Fusion_over_Heterogeneous_Information_Networks)] [[Codes](https://github.com/HKUST-KnowComp/FMG)]
 * [2018 WSDM] HeteLearn: **Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3159652.3159715)]
+* [2019 IJCAI] HueRec: **Unified Embedding Model over Heterogeneous Information Network for Personalized Recommendation**. [[PDF](https://www.ijcai.org/Proceedings/2019/0529.pdf)]
 
 #### Graph Neural Network (GNN)
 
