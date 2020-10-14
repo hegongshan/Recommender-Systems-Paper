@@ -4,6 +4,7 @@
   * [1.1 Neighborhood-based CF](#neighborhood-based)
   * [1.2 Model-based CF](#model-based)
 * [2.Content-based Recommender Systems](#content-based)
+  * [2.1 Review-based Recommendation](#review-based-recommendation)
 * [3.Knowledge Graph based  Recommender Systems](#knowledge-graph)
 * [4.Deep Learning based  Recommender Systems](#deep-learning)
   * [4.1 Multilayer Perceptron](#multilayer-perceptron-mlp)
@@ -15,9 +16,10 @@
 * [7.Graph-based Recommendation](#graph-based-recommendation)
   * [7.1 Graph Neural Network](#graph-neural-network-gnn)
 * [8.Social Recommendation](#social-recommendation)
-* [9.Others](#others)
-  * [9.1 Evaluation Metrics](#evaluation-metrics)
-  * [9.2 Embedding](#embedding)
+* [9.Cold Start Problem](#cold-start-problem)
+* [10.Others](#others)
+  * [10.1 Evaluation Metrics](#evaluation-metrics)
+  * [10.2 Embedding](#embedding)
 
 ### Collaborative Filtering
 
@@ -136,8 +138,11 @@
 * [2010] SociaMF: **A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks**. [[PDF](http://web.cs.ucla.edu/~yzsun/classes/2014Spring_CS7280/Papers/Recommendation/p135-jamali.pdf)]
 * [2011] SoReg: **Recommender systems with social regularization**. [[PDF](https://dl.acm.org/doi/10.1145/1935826.1935877)]
 * [2013] TrustMF: **Social Collaborative Filtering by Trust**. [[PDF](https://www.ijcai.org/Proceedings/13/Papers/404.pdf)]
-
 * [2015] **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings**. [[PDF](https://guoguibing.github.io/papers/guo2015trustsvd.pdf)]
+
+### Cold Start Problem
+
+* [2014 RecSys] **Social Collaborative Filtering for Cold-start Recommendations**. [[PDF](https://dariusb.bitbucket.io/papers/SedhainEtAl-RecSys2014.pdf)]
 
 ### Others
 
