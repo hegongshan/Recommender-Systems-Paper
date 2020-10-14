@@ -142,7 +142,15 @@
 
 ### Cold Start Problem
 
+* [2002 SIGIR] **Methods and Metrics for Cold-Start Recommendations**. [[PDF](https://dl.acm.org/doi/10.1145/564376.564421)]
+
+* [2008 ICUIMC] **Addressing Cold-Start Problem in Recommendation Systems**. [[PDF](https://dl.acm.org/doi/10.1145/1352793.1352837)]
+* [2009 RecSys] **Pairwise Preference Regression for Cold-start Recommendation**. [[PDF](https://dl.acm.org/doi/10.1145/1639714.1639720)]
+
+* [2011 SIGIR] **Functional Matrix Factorizations for Cold-Start Recommendation**. [[PDF](http://nyc.lti.cs.cmu.edu/classes/11-741/s17/Papers/SIGIR11fMF.pdf)]
+
 * [2014 RecSys] **Social Collaborative Filtering for Cold-start Recommendations**. [[PDF](https://dariusb.bitbucket.io/papers/SedhainEtAl-RecSys2014.pdf)]
+* [2014 RecSys] **Item Cold-Start Recommendations: Learning Local Collective Embeddings**. [[PDF](https://web.media.mit.edu/~msaveski/assets/publications/2014_item_cold_start/paper.pdf)]
 
 ### Others
 
