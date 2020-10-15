@@ -17,9 +17,12 @@
   * [7.1 Graph Neural Network](#graph-neural-network-gnn)
 * [8.Social Recommendation](#social-recommendation)
 * [9.Cold Start Problem](#cold-start-problem)
-* [10.Others](#others)
-  * [10.1 Evaluation Metrics](#evaluation-metrics)
-  * [10.2 Embedding](#embedding)
+* [10.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
+* [11.Sequential Recommendation](#sequential-recommendation)
+* [12.Conversational Recommendation](#conversationalinteractive-recommendation)
+* [13.Others](#others)
+  * [13.1 Evaluation Metrics](#evaluation-metrics)
+  * [13.2 Embedding](#embedding)
 
 ### Collaborative Filtering
 
@@ -153,7 +156,7 @@
 * [2014 RecSys] **Social Collaborative Filtering for Cold-start Recommendations**. [[PDF](https://dariusb.bitbucket.io/papers/SedhainEtAl-RecSys2014.pdf)]
 * [2014 RecSys] **Item Cold-Start Recommendations: Learning Local Collective Embeddings**. [[PDF](https://web.media.mit.edu/~msaveski/assets/publications/2014_item_cold_start/paper.pdf)]
 
-### Point-of-Interest Recommendation (POI)
+### Point-of-Interest (POI) Recommendation
 
 * [2011 SIGIR] **Exploiting Geographical Influence for Collaborative Point-of-Interest Recommendation**. [[PDF](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/p325.pdf)]
 * [2013 KDD] **Learning Geographical Preferences for Point-of-Interest Recommendation**. [[PDF](http://dnslab.jnu.ac.kr/classes/old_courses/2015s_das/[KDD_2013]%20Learning%C3%A5%20geographical%20preferences%20for%20point-of-interest%20recommendation.pdf)] [[Slides](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/bin_liu07oct2013.pdf)]
