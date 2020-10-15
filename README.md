@@ -143,6 +143,7 @@
 * [2011] SoReg: **Recommender systems with social regularization**. [[PDF](https://dl.acm.org/doi/10.1145/1935826.1935877)]
 * [2013] TrustMF: **Social Collaborative Filtering by Trust**. [[PDF](https://www.ijcai.org/Proceedings/13/Papers/404.pdf)]
 * [2015] **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings**. [[PDF](https://guoguibing.github.io/papers/guo2015trustsvd.pdf)]
+* [2018 AAAI] SERec: **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation**. [[PDF](https://arxiv.org/pdf/1711.11458.pdf)]
 
 ### Cold Start Problem
 
