@@ -155,9 +155,22 @@
 
 ### Point-of-Interest Recommendation (POI)
 
+* [2011 SIGIR] **Exploiting Geographical Influence for Collaborative Point-of-Interest Recommendation**. [[PDF](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/p325.pdf)]
+* [2013 KDD] **Learning Geographical Preferences for Point-of-Interest Recommendation**. [[PDF](http://dnslab.jnu.ac.kr/classes/old_courses/2015s_das/[KDD_2013]%20Learning%C3%A5%20geographical%20preferences%20for%20point-of-interest%20recommendation.pdf)] [[Slides](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/bin_liu07oct2013.pdf)]
+* [2013 CIKM] **Personalized Point-of-Interest Recommendation by Mining Users’ Preference Transition**. [[PDF](http://www.ntulily.org/wp-content/uploads/conference/Personalized_Point-of-Interest_Recommendation_by_Mining_Users_Preference_Transition_accepted.pdf)]
+* [2014 KDD] **GeoMF: Joint Geographical Modeling and Matrix Factorization for Point-of-Interest Recommendation**. [[PDF](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Defu-Lian-KDD.pdf)]
+* [2014 CIKM] **Graph-based Point-of-interest Recommendation with Geographical and Temporal Influences**. [[PDF](https://www.ntu.edu.sg/home/axsun/paper/cikm14-yuan.pdf)]
+* [2015 SIGIR] **Rank-GeoFM: A Ranking based Geographical Factorization Method for Point of Interest Recommendation**. [[PDF](https://www.ntu.edu.sg/home/gaocong/papers/SIGIR2015_ID246.pdf)]
+* [2016 KDD] **Point-of-Interest Recommendations: Learning Potential Check-ins from Friends**. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0448-liA.pdf)]
+
 ### Sequential Recommendation
 
+* [2018 WSDM] **Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding**. [[PDF](https://arxiv.org/pdf/1809.07426.pdf)]
+
 ### Conversational/Interactive Recommendation
+
+* [2013 CIKM] **Interactive Collaborative Filtering**. [[PDF](http://www0.cs.ucl.ac.uk/staff/w.zhang/papers/icf-cikm.pdf)]
+* [2018 SIGIR] **Conversational Recommender System**. [[PDF](https://arxiv.org/pdf/1806.03277.pdf)]
 
 ### Others
 
