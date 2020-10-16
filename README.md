@@ -14,7 +14,7 @@
   * [6.1 Pairwise LTR](#pairwise-ltr)
   * [6.2 Listwise LTR](#listwise-ltr)
 * [7.Graph-based Recommendation](#graph-based-recommendation)
-  * [7.1 Graph Neural Network](#graph-neural-network-gnn)
+  * [7.1 Graph Convolutional Network](#graph-convolutional-network-gcn)
 * [8.Social Recommendation](#social-recommendation)
 * [9.Cold Start Problem](#cold-start-problem)
 * [10.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
@@ -130,10 +130,10 @@
 * [2018 WSDM] HeteLearn: **Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3159652.3159715)]
 * [2019 IJCAI] HueRec: **Unified Embedding Model over Heterogeneous Information Network for Personalized Recommendation**. [[PDF](https://www.ijcai.org/Proceedings/2019/0529.pdf)]
 
-#### Graph Neural Network (GNN)
+#### Graph Convolutional Network (GCN)
 
 * [2018] **Graph Convolutional Neural Networks for Web-Scale Recommender Systems**. [[PDF](https://arxiv.org/pdf/1806.01973.pdf)]
-
+* [2019 SIGIR] NGCF: **Neural Graph Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir19-NGCF.pdf)]
 * [2020] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)]
 
 ### Social Recommendation
