@@ -74,6 +74,7 @@
 * [2016] **Wide & Deep Learning for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1606.07792.pdf)]
 * [2017 WWW] NCF: **Neural Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/www17-ncf.pdf)] [[Codes](https://github.com/hexiangnan/neural_collaborative_filtering)]
 * [2019 AAAI] **DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System**. [[PDF](https://arxiv.org/pdf/1901.04704.pdf)] [[Codes](https://github.com/familyld/DeepCF)]
+* [2019 TOIS] DeepICF: **Deep Item-based Collaborative Filtering for Top-N Recommendation**. [[PDF](https://arxiv.org/pdf/1811.04392.pdf)] [[Codes](https://github.com/linzh92/DeepICF)]
 * [2019 TOIS] J-NCF: **Joint Neural Collaborative Filtering for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1907.03459.pdf)]
 
 #### Autoencoders (AE)
