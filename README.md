@@ -3,6 +3,8 @@
 * [1.Collaborative Filtering based Recommender Systems](#collaborative-filtering)
   * [1.1 Neighborhood-based CF](#neighborhood-based)
   * [1.2 Model-based CF](#model-based)
+    * [1.2.1 Matrix Factorization](#matrix-factorization)
+    * [1.2.2 Metric Learning](#metric-learning)
 * [2.Content-based Recommender Systems](#content-based)
   * [2.1 Review-based Recommendation](#review-based-recommendation)
 * [3.Knowledge Graph based  Recommender Systems](#knowledge-graph)
@@ -35,6 +37,8 @@
 
 #### Model-based
 
+##### Matrix Factorization
+
 * [1998] SVD: **Learning Collaborative Information Filters**. [[PDF](https://www.ics.uci.edu/~pazzani/Publications/MLC98.pdf)]
 * [2006] FunkSVD (Latent Factor Model, LFM): **Netflix Update: Try This at Home**. http://sifter.org/~simon/journal/20061211.html
 * [2007] PMF: **Probabilistic matrix factorization**. [[PDF](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)]
@@ -49,8 +53,13 @@
 * [2013] **FISM: Factored Item Similarity Models for Top-N Recommender Systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/fismkdd13.pdf)]
 * [2014] Logistic MF: **Logistic Matrix Factorization for Implicit Feedback Data**. [[PDF](http://stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf)] [[Codes](https://github.com/MrChrisJohnson/logistic-mf)]
 * [2016] eALS: **Fast Matrix Factorization for Online Recommendation with Implicit Feedback**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf)] [[Codes](https://github.com/hexiangnan/sigir16-eals/)]
-* [2017 WWW] CML: **Collaborative Metric Learning**. [[PDF](https://vision.cornell.edu/se3/wp-content/uploads/2017/03/WWW-fp0554-hsiehA.pdf)]
 * [2020 RecSys] **Neural Collaborative Filtering vs. Matrix Factorization Revisited**. [[PDF](https://arxiv.org/pdf/2005.09683.pdf)] [[Codes](https://github.com/google-research/google-research/tree/master/dot_vs_learned_similarity)]
+
+##### Metric Learning
+
+* [2017 WWW] CML: **Collaborative Metric Learning**. [[PDF](https://vision.cornell.edu/se3/wp-content/uploads/2017/03/WWW-fp0554-hsiehA.pdf)]
+
+* [2020 AAAI] SML: **Symmetric Metric Learning with Adaptive Margin for Recommendation**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5894/5750)]
 
 ### Content-based
 
