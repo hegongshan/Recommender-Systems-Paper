@@ -32,8 +32,10 @@
 
 * [2001] ItemCF: **Item-Based Collaborative Filtering Recommendation Algorithms**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/371920.372071)]
 * [2003] **Amazon.com recommendations: item-to-item collaborative filtering**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1167344)]
-* [2004] **Item-Based Top-N Recommendation Algorithms**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/itemrsTOIS04.pdf)]
+* [2004 TOIS] **Item-Based Top-N Recommendation Algorithms**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/itemrsTOIS04.pdf)]
 * [2005] Slope One: **Slope One Predictors for Online Rating-Based Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/cs/0702144.pdf)]
+* [2011 ICDM] **Slim: Sparse linear methods for top-n recommender systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf)]
+* [2013 KDD] **FISM: Factored Item Similarity Models for Top-N Recommender Systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/fismkdd13.pdf)]
 
 #### Model-based
 
@@ -49,10 +51,8 @@
 * [2009] timeSVD: **Collaborative filtering with temporal dynamics**. [[PDF](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p447-koren.pdf)]
 * [2009] **Matrix Factorization Techniques for Recommender Systems**. [[PDF](http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/ieeecomputer.pdf)]
 * [2010] PureSVD: **Performance of Recommender Algorithms on Top-N Recommendation Tasks**. [[PDF](https://tooob.com/api/objs/read/noteid/28575258/)]
-* [2011] **Slim: Sparse linear methods for top-n recommender systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf)]
-* [2013] **FISM: Factored Item Similarity Models for Top-N Recommender Systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/fismkdd13.pdf)]
-* [2014] Logistic MF: **Logistic Matrix Factorization for Implicit Feedback Data**. [[PDF](http://stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf)] [[Codes](https://github.com/MrChrisJohnson/logistic-mf)]
-* [2016] eALS: **Fast Matrix Factorization for Online Recommendation with Implicit Feedback**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf)] [[Codes](https://github.com/hexiangnan/sigir16-eals/)]
+* [2014 NIPS] Logistic MF: **Logistic Matrix Factorization for Implicit Feedback Data**. [[PDF](http://stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf)] [[Codes](https://github.com/MrChrisJohnson/logistic-mf)]
+* [2016 SIGIR] eALS: **Fast Matrix Factorization for Online Recommendation with Implicit Feedback**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf)] [[Codes](https://github.com/hexiangnan/sigir16-eals/)]
 * [2020 RecSys] **Neural Collaborative Filtering vs. Matrix Factorization Revisited**. [[PDF](https://arxiv.org/pdf/2005.09683.pdf)] [[Codes](https://github.com/google-research/google-research/tree/master/dot_vs_learned_similarity)]
 
 ##### Metric Learning
@@ -83,6 +83,7 @@
 * [2016] **Wide & Deep Learning for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1606.07792.pdf)]
 * [2017 WWW] NCF: **Neural Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/www17-ncf.pdf)] [[Codes](https://github.com/hexiangnan/neural_collaborative_filtering)]
 * [2017 IJCAI] DMF: **Deep Matrix Factorization Models for Recommender Systems**. [[PDF](https://www.ijcai.org/Proceedings/2017/0447.pdf)]
+* [2017 CIKM] NNCF: **A Neural Collaborative Filtering Model with Interaction-based Neighborhood**. [[PDF](https://www.researchgate.net/profile/Ting_Bai/publication/320885772_A_Neural_Collaborative_Filtering_Model_with_Interaction-based_Neighborhood/links/5af0d300a6fdcc24364aca37/A-Neural-Collaborative-Filtering-Model-with-Interaction-based-Neighborhood.pdf)]
 * [2019 AAAI] **DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System**. [[PDF](https://arxiv.org/pdf/1901.04704.pdf)] [[Codes](https://github.com/familyld/DeepCF)]
 * [2019 TOIS] DeepICF: **Deep Item-based Collaborative Filtering for Top-N Recommendation**. [[PDF](https://arxiv.org/pdf/1811.04392.pdf)] [[Codes](https://github.com/linzh92/DeepICF)]
 * [2019 TOIS] J-NCF: **Joint Neural Collaborative Filtering for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1907.03459.pdf)]
