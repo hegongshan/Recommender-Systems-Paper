@@ -36,6 +36,7 @@
 * [2005] Slope One: **Slope One Predictors for Online Rating-Based Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/cs/0702144.pdf)]
 * [2011 ICDM] **Slim: Sparse linear methods for top-n recommender systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf)]
 * [2013 KDD] **FISM: Factored Item Similarity Models for Top-N Recommender Systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/fismkdd13.pdf)]
+* [2014 PAKDD] **HOSLIM: Higher-Order Sparse LInear Method for Top-N Recommender Systems**. [[PDF](https://www-users.cs.umn.edu/~chri2951/hoslim14pakdd.pdf)]
 
 #### Model-based
 
