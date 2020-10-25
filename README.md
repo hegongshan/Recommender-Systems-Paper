@@ -40,7 +40,7 @@
 #### Model-based
 
 * [1999 IJCAI] **Latent Class Models for Collaborative Filtering**. [[PDF](https://www.ijcai.org/Proceedings/99-2/Papers/005.pdf)]
-* [2014 TOIS] **Latent Semantic Models for Collaborative Filtering**. [[PDF](https://cs.brynmawr.edu/Courses/cs380/fall2006/p89-hofmann.pdf)]
+* [2004 TOIS] **Latent Semantic Models for Collaborative Filtering**. [[PDF](https://cs.brynmawr.edu/Courses/cs380/fall2006/p89-hofmann.pdf)]
 
 ##### Matrix Factorization
 
