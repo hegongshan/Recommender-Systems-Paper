@@ -39,9 +39,14 @@
 
 #### Model-based
 
+* [1999 IJCAI] **Latent Class Models for Collaborative Filtering**. [[PDF](https://www.ijcai.org/Proceedings/99-2/Papers/005.pdf)]
+* [2014 TOIS] **Latent Semantic Models for Collaborative Filtering**. [[PDF](https://cs.brynmawr.edu/Courses/cs380/fall2006/p89-hofmann.pdf)]
+
 ##### Matrix Factorization
 
 * [1998] SVD: **Learning Collaborative Information Filters**. [[PDF](https://www.ics.uci.edu/~pazzani/Publications/MLC98.pdf)]
+* [2004 NIPS] MMMF: **Maximum-Margin Matrix Factorization**. [[PDF](https://papers.nips.cc/paper/2655-maximum-margin-matrix-factorization.pdf)]
+* [2005 ICML] **Fast Maximum Margin Matrix Factorization for Collaborative Prediction**. [[PDF](https://icml.cc/Conferences/2005/proceedings/papers/090_FastMaxmimum_RennieSrebro.pdf)]
 * [2006] FunkSVD (Latent Factor Model, LFM): **Netflix Update: Try This at Home**. http://sifter.org/~simon/journal/20061211.html
 * [2007] PMF: **Probabilistic matrix factorization**. [[PDF](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)]
 * [2007] NSVD: **Improving regularized singular value decomposition for collaborative filtering**. [[PDF](http://arek-paterek.com/ap_kdd.pdf)]
