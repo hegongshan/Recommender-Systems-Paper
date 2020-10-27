@@ -82,6 +82,7 @@
 ### Deep Learning
 
 * [2007] RBM: **Restricted Boltzmann Machines for Collaborative Filtering**. [[PDF](http://www.cs.toronto.edu/~amnih/papers/rbmcf.pdf)]
+* [2018 SIGIR] CMN: **Collaborative Memory Network for Recommendation Systems**. [[PDF](https://arxiv.org/pdf/1804.10862.pdf)]
 
 #### Multilayer Perceptron (MLP)
 
@@ -162,7 +163,7 @@
 
 * [2018 KDD] PinSage: **Graph Convolutional Neural Networks for Web-Scale Recommender Systems**. [[PDF](https://arxiv.org/pdf/1806.01973.pdf)]
 * [2018 KDD] GCMC: **Graph Convolutional Matrix Completion**. [[PDF](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf)]
-* [2018 RecSys] SpectralCF: **Spectral Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1808.10523.pdf)]
+* [2018 RecSys] SpectralCF: **Spectral Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1808.10523.pdf)] [[Codes](https://github.com/lzheng21/SpectralCF)]
 * [2019 SIGIR] NGCF: **Neural Graph Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir19-NGCF.pdf)]
 * [2020 SIGIR] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)]
 
