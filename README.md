@@ -8,23 +8,24 @@
 * [2.Content-based Recommender Systems](#content-based)
   * [2.1 Review-based Recommendation](#review-based-recommendation)
 * [3.Knowledge Graph based  Recommender Systems](#knowledge-graph)
-* [4.Deep Learning based  Recommender Systems](#deep-learning)
-  * [4.1 Multilayer Perceptron](#multilayer-perceptron-mlp)
-  * [4.2 Autoencoders](#autoencoders-ae)
-* [5.Click-Through Rate (CTR) Prediction](#click-through-rate-ctr-prediction)
-* [6.Learning to Rank (LTR)](#learning-to-rank-ltr)
-  * [6.1 Pairwise LTR](#pairwise-ltr)
-  * [6.2 Listwise LTR](#listwise-ltr)
-* [7.Graph-based Recommendation](#graph-based-recommendation)
-  * [7.1 Graph Convolutional Networks](#graph-convolutional-networks-gcn)
-* [8.Social Recommendation](#social-recommendation)
-* [9.Cold Start Problem](#cold-start-problem)
-* [10.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
-* [11.Sequential Recommendation](#sequential-recommendation)
-* [12.Conversational Recommendation](#conversationalinteractive-recommendation)
-* [13.Others](#others)
-  * [13.1 Evaluation Metrics](#evaluation-metrics)
-  * [13.2 Embedding](#embedding)
+* [4.Hybrid Recommendation](#hybrid-recommendation)
+* [5.Deep Learning based  Recommender Systems](#deep-learning)
+  * [5.1 Multilayer Perceptron](#multilayer-perceptron-mlp)
+  * [5.2 Autoencoders](#autoencoders-ae)
+* [6.Click-Through Rate (CTR) Prediction](#click-through-rate-ctr-prediction)
+* [7.Learning to Rank (LTR)](#learning-to-rank-ltr)
+  * [7.1 Pairwise LTR](#pairwise-ltr)
+  * [7.2 Listwise LTR](#listwise-ltr)
+* [8.Graph-based Recommendation](#graph-based-recommendation)
+  * [8.1 Graph Convolutional Networks](#graph-convolutional-networks-gcn)
+* [9.Social Recommendation](#social-recommendation)
+* [10.Cold Start Problem](#cold-start-problem)
+* [11.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
+* [12.Sequential Recommendation](#sequential-recommendation)
+* [13.Conversational Recommendation](#conversationalinteractive-recommendation)
+* [14.Others](#others)
+  * [14.1 Evaluation Metrics](#evaluation-metrics)
+  * [14.2 Embedding](#embedding)
 
 ### Collaborative Filtering
 
@@ -64,7 +65,7 @@
 ##### Metric Learning
 
 * [2017 WWW] CML: **Collaborative Metric Learning**. [[PDF](https://vision.cornell.edu/se3/wp-content/uploads/2017/03/WWW-fp0554-hsiehA.pdf)]
-
+* [2018 WWW] LRML: **Latent relational metric learning via memory-based attention for collaborative ranking**. [[PDF](https://arxiv.org/pdf/1707.05176.pdf)]
 * [2020 AAAI] SML: **Symmetric Metric Learning with Adaptive Margin for Recommendation**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5894/5750)]
 
 ### Content-based
@@ -78,6 +79,10 @@
 ### Knowledge Graph
 
 * [2016] **Collaborative Knowledge Base Embedding for Recommender Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2939672.2939673)]
+
+### Hybrid Recommendation
+
+* [2017 CIKM] JRL: **Joint Representation Learning for Top-N Recommendation with Heterogeneous Information Sources**. [[PDF](http://shichuan.org/hin/topic/Embedding/2017.%20CIKM%20Joint%20Representation%20Learning%20for%20Top%20N%20Recommendation%20with%20Heterogeneous%20Information%20Sources.pdf)]
 
 ### Deep Learning
 
@@ -223,3 +228,4 @@
 * [2016] **node2vec: Scalable Feature Learning for Networks**. [[PDF](https://arxiv.org/pdf/1607.00653.pdf)]
 
 * [2018] **BiNE: Bipartite Network Embedding**. [[PDF](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-bipartiteNE.pdf)]
+
