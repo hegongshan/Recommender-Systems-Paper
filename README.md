@@ -66,6 +66,7 @@
 
 * [2017 WWW] CML: **Collaborative Metric Learning**. [[PDF](https://vision.cornell.edu/se3/wp-content/uploads/2017/03/WWW-fp0554-hsiehA.pdf)]
 * [2018 WWW] LRML: **Latent relational metric learning via memory-based attention for collaborative ranking**. [[PDF](https://arxiv.org/pdf/1707.05176.pdf)]
+* [2018 arXiv] **Metric Factorization: Recommendation beyond Matrix Factorization**. [[PDF](https://arxiv.org/pdf/1802.04606.pdf)]
 * [2020 AAAI] SML: **Symmetric Metric Learning with Adaptive Margin for Recommendation**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5894/5750)]
 
 ### Content-based
