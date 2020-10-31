@@ -131,6 +131,7 @@
 * [2012 JMLR] RankSGD: **Collaborative Filtering Ensemble for Ranking**. [[PDF](http://proceedings.mlr.press/v18/jahrer12b/jahrer12b.pdf)]
 * [2012 RecSys] RankALS: **Alternating Least Squares for Personalized Ranking**. [[PDF](https://www.researchgate.net/profile/Gabor_Takacs3/publication/254464370_Alternating_least_squares_for_personalized_ranking/links/5444216d0cf2e6f0c0fb9cdc.pdf)] 
 * [2013 SDM] **CoFiSet: Collaborative Filtering via Learning Pairwise Preferences over Item-sets**. [[PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972832.20)]
+* [2014 WSDM] **Improving Pairwise Learning for Item Recommendation from Implicit Feedback**. [[PDF](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/ReFr14.pdf)]
 * [2014] LCR: **Local Collaborative Ranking**. [[PDF](http://bengio.abracadoudou.com/cv/publications/pdf/lee_2014_www.pdf)]
 * [2014] **VSRank: A Novel Framework for Ranking-Based Collaborative Filtering**. [[PDF](https://www.researchgate.net/profile/Shuaiqiang_Wang/publication/281834407_VSRank_A_Novel_Framework_for_Ranking-Based_Collaborative_Filtering/links/55fa691408aec948c4a734a8.pdf)]
 * [2017 KDD] **Large-scale Collaborative Ranking in Near-Linear Time**. [[PDF](http://www.stat.ucdavis.edu/~chohsieh/rf/KDD_Collaborative_Ranking.pdf)]
