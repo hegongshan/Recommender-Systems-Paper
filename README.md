@@ -23,10 +23,11 @@
 * [10.Cold Start Problem](#cold-start-problem)
 * [11.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
 * [12.Sequential Recommendation](#sequential-recommendation)
-* [13.Conversational Recommendation](#conversationalinteractive-recommendation)
-* [14.Others](#others)
-  * [14.1 Evaluation Metrics](#evaluation-metrics)
-  * [14.2 Embedding](#embedding)
+* [13.Explainable Recommendation](#explainable-recommendation)
+* [14.Conversational Recommendation](#conversationalinteractive-recommendation)
+* [15.Others](#others)
+  * [15.1 Evaluation Metrics](#evaluation-metrics)
+  * [15.2 Embedding](#embedding)
 
 ### Collaborative Filtering
 
