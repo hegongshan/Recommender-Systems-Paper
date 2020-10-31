@@ -216,6 +216,11 @@
 
 * [2018 WSDM] **Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding**. [[PDF](https://arxiv.org/pdf/1809.07426.pdf)]
 
+### Explainable Recommendation
+
+* [2014 SIGIR] EFM: **Explicit Factor Models for Explainable Recommendation based on Phrase-level Sentiment Analysis**. [[PDF](http://yongfeng.me/attach/efm-zhang.pdf)]
+* [2018] **Explainable Recommendation: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1804.11192.pdf)] 
+
 ### Conversational/Interactive Recommendation
 
 * [2013 CIKM] **Interactive Collaborative Filtering**. [[PDF](http://www0.cs.ucl.ac.uk/staff/w.zhang/papers/icf-cikm.pdf)]
