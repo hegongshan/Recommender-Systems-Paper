@@ -17,7 +17,8 @@
   * [7.1 Pairwise LTR](#pairwise-ltr)
   * [7.2 Listwise LTR](#listwise-ltr)
 * [8.Graph-based Recommendation](#graph-based-recommendation)
-  * [8.1 Graph Convolutional Networks](#graph-convolutional-networks-gcn)
+  * [8.1 Heterogeneous Information Networks](#heterogeneous-information-networks-hin)
+  * [8.2 Graph Convolutional Networks](#graph-convolutional-networks-gcn)
 * [9.Social Recommendation](#social-recommendation)
 * [10.Cold Start Problem](#cold-start-problem)
 * [11.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
@@ -159,6 +160,10 @@
 * [2007 IJCAI] **ItemRank: A Random-Walk Based Scoring Algorithm for Recommender Engines**. [[PDF](https://www.ijcai.org/Proceedings/07/Papers/444.pdf)]
 * [2012 CIKM] **PathRank: A Novel Node Ranking Measure on a Heterogeneous Graph for Recommender Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2396761.2398488)]
 * [2013 ESWA] **PathRank: Ranking nodes on a heterogeneous graph for flexible hybrid recommender systems**. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417412009657)]
+* [2015 NIPS] **Collaborative Filtering with Graph Information: Consistency and Scalable Methods**. [[PDF](https://papers.nips.cc/paper/5938-collaborative-filtering-with-graph-information-consistency-and-scalable-methods.pdf)]
+
+#### Heterogeneous Information Networks (HIN)
+
 * [2014 WWW] **Random Walks in Recommender Systems: Exact Computation and Simulations**. [[PDF](https://nms.kcl.ac.uk/colin.cooper/papers/recommender-rw.pdf)]
 * [2014 WSDM] HeteRec: **Personalized Entity Recommendation: A Heterogeneous Information Network Approach**.  [[PDF](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf)]
 * [2016 TKDE] HeteRS: **A General Recommendation Model for Heterogeneous Networks**. [[PDF](https://ieeexplore.ieee.org/document/7546911)]
