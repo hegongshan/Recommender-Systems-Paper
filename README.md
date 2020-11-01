@@ -22,12 +22,13 @@
 * [9.Social Recommendation](#social-recommendation)
 * [10.Cold Start Problem](#cold-start-problem)
 * [11.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
-* [12.Sequential Recommendation](#sequential-recommendation)
-* [13.Explainable Recommendation](#explainable-recommendation)
-* [14.Conversational Recommendation](#conversationalinteractive-recommendation)
-* [15.Others](#others)
-  * [15.1 Evaluation Metrics](#evaluation-metrics)
-  * [15.2 Embedding](#embedding)
+* [12.Context-aware Recommendation](#context-aware-recommendation)
+* [13.Sequential Recommendation](#sequential-recommendation)
+* [14.Explainable Recommendation](#explainable-recommendation)
+* [15.Conversational Recommendation](#conversationalinteractive-recommendation)
+* [16.Others](#others)
+  * [16.1 Evaluation Metrics](#evaluation-metrics)
+  * [16.2 Embedding](#embedding)
 
 ### Collaborative Filtering
 
@@ -194,14 +195,17 @@
 ### Cold Start Problem
 
 * [2002 SIGIR] **Methods and Metrics for Cold-Start Recommendations**. [[PDF](https://dl.acm.org/doi/10.1145/564376.564421)]
-
 * [2008 ICUIMC] **Addressing Cold-Start Problem in Recommendation Systems**. [[PDF](https://dl.acm.org/doi/10.1145/1352793.1352837)]
 * [2009 RecSys] **Pairwise Preference Regression for Cold-start Recommendation**. [[PDF](https://dl.acm.org/doi/10.1145/1639714.1639720)]
-
 * [2011 SIGIR] **Functional Matrix Factorizations for Cold-Start Recommendation**. [[PDF](http://nyc.lti.cs.cmu.edu/classes/11-741/s17/Papers/SIGIR11fMF.pdf)]
-
 * [2014 RecSys] **Social Collaborative Filtering for Cold-start Recommendations**. [[PDF](https://dariusb.bitbucket.io/papers/SedhainEtAl-RecSys2014.pdf)]
 * [2014 RecSys] **Item Cold-Start Recommendations: Learning Local Collective Embeddings**. [[PDF](https://web.media.mit.edu/~msaveski/assets/publications/2014_item_cold_start/paper.pdf)]
+
+### Context-aware Recommendation
+
+* [2010 RecSys] **Multiverse Recommendation: N-dimensional Tensor Factorization for Context-aware Collaborative Filtering**. [[PDF](https://xamat.github.io/pubs/karatzoglu-recsys-2010.pdf)]
+* [2011 RecSys] **Matrix Factorization Techniques for Context Aware Recommendation**. [[PDF](https://www.researchgate.net/profile/Bernd_Ludwig/publication/221140971_Matrix_factorization_techniques_for_context_aware_recommendation/links/0deec52b992aa0ec52000000/Matrix-factorization-techniques-for-context-aware-recommendation.pdf)]
+* [2016 RecSys] **Convolutional Matrix Factorization for Document Context-Aware Recommendation**. [[PDF](https://dl.acm.org/doi/10.1145/2959100.2959165)] [[Codes](https://github.com/cartopy/ConvMF)]
 
 ### Point-of-Interest (POI) Recommendation
 
