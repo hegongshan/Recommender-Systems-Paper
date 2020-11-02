@@ -180,6 +180,7 @@
 * [2018 KDD] GCMC: **Graph Convolutional Matrix Completion**. [[PDF](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf)]
 * [2018 RecSys] SpectralCF: **Spectral Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1808.10523.pdf)] [[Codes](https://github.com/lzheng21/SpectralCF)]
 * [2019 SIGIR] NGCF: **Neural Graph Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir19-NGCF.pdf)]
+* [2019 ICDM] Multi-GCCF: **Multi-Graph Convolution Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/2001.00267.pdf)]
 * [2020 AAAI] LR-GCCF: **Revisiting Graph Based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5330/5186)] [[Codes](https://github.com/newlei/LR-GCCF)]
 * [2020 SIGIR] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)] [[Codes](https://github.com/kuandeng/LightGCN)]
 
