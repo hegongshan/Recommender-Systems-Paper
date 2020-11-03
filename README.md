@@ -111,9 +111,13 @@
 
 * [2015] **AutoRec: Autoencoders Meet Collaborative Filtering**. [[PDF](http://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)]
 * [2015] CDL: **Collaborative Deep Learning for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1409.2944.pdf)]
-* [2016] CDAE: **Collaborative Denoising Auto-Encoders for Top-N Recommender Systems**. [[PDF](http://www.alicezheng.org/papers/wsdm16-cdae.pdf)]
+* [2016 WSDM] CDAE: **Collaborative Denoising Auto-Encoders for Top-N Recommender Systems**. [[PDF](http://www.alicezheng.org/papers/wsdm16-cdae.pdf)]
 * [2017 KDD] CVAE: **Collaborative Variational Autoencoder for Recommender Systems**. [[PDF](http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)]
 * [2018 WWW] Mult-VAE: **Variational Autoencoders for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1802.05814.pdf)] [[Codes](https://github.com/dawenl/vae_cf)]
+
+#### Convolutional Neural Network (CNN)
+
+* [2018 IJCAI] ONCF: **Outer Product-based Neural Collaborative Filtering**. [[PDF](https://www.ijcai.org/Proceedings/2018/0308.pdf)]
 
 ### Click-Through Rate (CTR) Prediction
 
@@ -183,6 +187,12 @@
 * [2019 ICDM] Multi-GCCF: **Multi-Graph Convolution Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/2001.00267.pdf)]
 * [2020 AAAI] LR-GCCF: **Revisiting Graph Based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5330/5186)] [[Codes](https://github.com/newlei/LR-GCCF)]
 * [2020 SIGIR] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)] [[Codes](https://github.com/kuandeng/LightGCN)]
+
+#####  Disentangled GNN
+
+* [2020 AAAI] MCCF: **Multi-Component Graph Convolutional Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1911.10699.pdf)]
+
+* [2020 SIGIR] DGCF: **Disentangled Graph Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/2007.01764.pdf)] [[Codes](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)]
 
 ### Social Recommendation
 
