@@ -264,5 +264,7 @@
 
 #### Survey
 
+* [2005 TKDE] **Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions**. [[PDF](Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions)]
+
 * [2014] **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2556270)]
 
