@@ -30,6 +30,7 @@
 * [17.Others](#others)
   * [17.1 Evaluation Metrics](#evaluation-metrics)
   * [17.2 Embedding](#embedding)
+  * [17.3 Survey](#survey)
 
 ### Collaborative Filtering
 
@@ -257,10 +258,11 @@
 #### Embedding
 
 * [2014] **DeepWalk: Online Learning of Social Representations**. [[PDF](https://arxiv.org/pdf/1403.6652.pdf)]
-
 * [2016] **Item2Vec: Neural Item Embedding for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1603.04259.pdf)]
-
 * [2016] **node2vec: Scalable Feature Learning for Networks**. [[PDF](https://arxiv.org/pdf/1607.00653.pdf)]
-
 * [2018] **BiNE: Bipartite Network Embedding**. [[PDF](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-bipartiteNE.pdf)]
+
+#### Survey
+
+* [2014] **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2556270)]
 
