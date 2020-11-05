@@ -21,16 +21,17 @@
   * [8.2 Graph Convolutional Networks](#graph-convolutional-networks-gcn)
 * [9.Social Recommendation](#social-recommendation)
 * [10.Cross-domain Recommendation](#cross-domain-recommendation)
-* [11.Cold Start Problem](#cold-start-problem)
-* [12.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
-* [13.Context-aware Recommendation](#context-aware-recommendation)
-* [14.Sequential Recommendation](#sequential-recommendation)
-* [15.Explainable Recommendation](#explainable-recommendation)
-* [16.Conversational Recommendation](#conversationalinteractive-recommendation)
-* [17.Others](#others)
-  * [17.1 Evaluation Metrics](#evaluation-metrics)
-  * [17.2 Embedding](#embedding)
-  * [17.3 Survey](#survey)
+* [11.Group Recommendation](#group-recommendation)
+* [12.Cold Start Problem](#cold-start-problem)
+* [13.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
+* [14.Context-aware Recommendation](#context-aware-recommendation)
+* [15.Sequential Recommendation](#sequential-recommendation)
+* [16.Explainable Recommendation](#explainable-recommendation)
+* [17.Conversational Recommendation](#conversationalinteractive-recommendation)
+* [18.Others](#others)
+  * [18.1 Evaluation Metrics](#evaluation-metrics)
+  * [18.2 Embedding](#embedding)
+  * [18.3 Survey](#survey)
 
 ### Collaborative Filtering
 
@@ -164,7 +165,7 @@
 
 ### Graph-based Recommendation
 
-* [2003 TKDE] **Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search**. [[PDF](https://ieeexplore.ieee.org/document/1208999)]
+* [2003 TKDE] Personalized PageRank: **Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search**. [[PDF](https://ieeexplore.ieee.org/document/1208999)]
 * [2007 IJCAI] **ItemRank: A Random-Walk Based Scoring Algorithm for Recommender Engines**. [[PDF](https://www.ijcai.org/Proceedings/07/Papers/444.pdf)]
 * [2012 CIKM] **PathRank: A Novel Node Ranking Measure on a Heterogeneous Graph for Recommender Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2396761.2398488)]
 * [2013 ESWA] **PathRank: Ranking nodes on a heterogeneous graph for flexible hybrid recommender systems**. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417412009657)]
@@ -210,6 +211,10 @@
 * [2008] **If You Like the Devil Wears Prada the Book, Will You also Enjoy the Devil Wears Prada the Movie? A Study of Cross-Domain Recommendations**. [[PDF](https://link.springer.com/content/pdf/10.1007/s00354-008-0041-0.pdf)]
 * [2011 RecSys] **A Generic Semantic-based Framework for Cross-domain Recommendation**. [[PDF](http://ir.ii.uam.es/hetrec2011/res/papers/hetrec2011_paper04.pdf)]
 
+### Group Recommendation
+
+* [2009 VLDB] **Group Recommendation: Semantics and Efficiency**. [[PDF](https://www.researchgate.net/profile/Sihem_Amer-Yahia/publication/234829365_Group_Recommendation_Semantics_and_Efficiency/links/54f9c4e10cf25371374ff92e/Group-Recommendation-Semantics-and-Efficiency.pdf)]
+
 ### Cold Start Problem
 
 * [2002 SIGIR] **Methods and Metrics for Cold-Start Recommendations**. [[PDF](https://dl.acm.org/doi/10.1145/564376.564421)]
@@ -242,7 +247,6 @@
 ### Explainable Recommendation
 
 * [2014 SIGIR] EFM: **Explicit Factor Models for Explainable Recommendation based on Phrase-level Sentiment Analysis**. [[PDF](http://yongfeng.me/attach/efm-zhang.pdf)]
-* [2018] **Explainable Recommendation: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1804.11192.pdf)] 
 
 ### Conversational/Interactive Recommendation
 
@@ -264,8 +268,18 @@
 
 #### Survey
 
+* [2002] ***Hybrid Recommender Systems*: Survey and Experiments**. [[PDF](http://gamejam.cti.depaul.edu/~rburke/pubs/burke-umuai02.pdf)]
 * [2005 TKDE] **Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions**. [[PDF](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf)]
-
+* [2012] ***Context-aware Recommender Systems* for Learning: a Survey and Future Challenges**. [[PDF](Context-aware Recommender Systems for Learning: a Survey and Future Challenges)]
+* [2012] ***Cross-domain recommender systems*: A survey of the State of the Art**. [[PDF](https://www.researchgate.net/profile/Francesco_Ricci5/publication/267227272_Cross-domain_recommender_systems_A_survey_of_the_State_of_the_Art/links/5469d3d00cf20dedafd10b29.pdf)]
+* [2013] **A survey of collaborative filtering based *social recommender systems***. [[PDF](https://romisatriawahono.net/lecture/rm/survey/information%20retrieval/Yang%20-%20Social%20Recommender%20Systems%20-%202014.pdf)]
+* [2013 KBS] **Recommender systems survey**. [[PDF](https://romisatriawahono.net/lecture/rm/survey/information%20retrieval/Bobadilla%20-%20Recommender%20Systems%20-%202013.pdf)]
 * [2014] **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2556270)]
-* [2018] **Deep Learning based Recommender System: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1707.07435.pdf)]
+* [2014] ***Group Recommendations*: Survey and Perspectives**. [[PDF](https://www.researchgate.net/profile/Michal_Kompan/publication/275544963_Group_Recommendations_Survey_and_Perspectives/links/553f56ce0cf24c6a05d2023b.pdf)]
+* [2016] **A Survey of *Point-of-interest Recommendation* in Location-based Social Networks**. [[PDF](https://arxiv.org/pdf/1607.00647.pdf)]
+* [2018] ***Explainable Recommendation*: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1804.11192.pdf)] 
+* [2018] ***Deep Learning based Recommender System*: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1707.07435.pdf)]
+* [2019] **A Survey on *Session-based* Recommender Systems**. [[PDF](https://arxiv.org/pdf/1902.04864.pdf)]
+* [2020] **A Survey on *Knowledge Graph*-Based Recommender Systems**. [[PDF](https://arxiv.org/pdf/2003.00911.pdf)]
 
+* [2020] **Deep Learning on *Knowledge Graph* for Recommender System: A Survey**. [[PDF](https://arxiv.org/pdf/2004.00387.pdf)]
