@@ -270,7 +270,7 @@
 
 * [2002] ***Hybrid Recommender Systems*: Survey and Experiments**. [[PDF](http://gamejam.cti.depaul.edu/~rburke/pubs/burke-umuai02.pdf)]
 * [2005 TKDE] **Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions**. [[PDF](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf)]
-* [2012] ***Context-aware Recommender Systems* for Learning: a Survey and Future Challenges**. [[PDF](Context-aware Recommender Systems for Learning: a Survey and Future Challenges)]
+* [2012] ***Context-aware Recommender Systems* for Learning: a Survey and Future Challenges**. [[PDF](https://www.researchgate.net/profile/Hendrik_Drachsler/publication/234057252_Context-Aware_Recommender_Systems_for_Learning_A_Survey_and_Future_Challenges/links/09e4150eacc85f2864000000.pdf)]
 * [2012] ***Cross-domain recommender systems*: A survey of the State of the Art**. [[PDF](https://www.researchgate.net/profile/Francesco_Ricci5/publication/267227272_Cross-domain_recommender_systems_A_survey_of_the_State_of_the_Art/links/5469d3d00cf20dedafd10b29.pdf)]
 * [2013] **A survey of collaborative filtering based *social recommender systems***. [[PDF](https://romisatriawahono.net/lecture/rm/survey/information%20retrieval/Yang%20-%20Social%20Recommender%20Systems%20-%202014.pdf)]
 * [2013 KBS] **Recommender systems survey**. [[PDF](https://romisatriawahono.net/lecture/rm/survey/information%20retrieval/Bobadilla%20-%20Recommender%20Systems%20-%202013.pdf)]
