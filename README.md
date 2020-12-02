@@ -237,8 +237,8 @@
 * [2013 KDD] **Learning Geographical Preferences for Point-of-Interest Recommendation**. [[PDF](http://binbenliu.github.io/papers/poi_kdd13.pdf)] [[Slides](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/bin_liu07oct2013.pdf)]
 * [2013 CIKM] **Personalized Point-of-Interest Recommendation by Mining Users’ Preference Transition**. [[PDF](http://www.ntulily.org/wp-content/uploads/conference/Personalized_Point-of-Interest_Recommendation_by_Mining_Users_Preference_Transition_accepted.pdf)]
 * [2014 KDD] **GeoMF: Joint Geographical Modeling and Matrix Factorization for Point-of-Interest Recommendation**. [[PDF](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Defu-Lian-KDD.pdf)]
-* [2014 CIKM] **Graph-based Point-of-interest Recommendation with Geographical and Temporal Influences**. [[PDF](https://personal.ntu.edu.sg/axsun/paper/cikm14-yuan.pdf)]
-* [2015 SIGIR] **Rank-GeoFM: A Ranking based Geographical Factorization Method for Point of Interest Recommendation**. [[PDF](https://personal.ntu.edu.sg/gaocong/papers/SIGIR2015_ID246.pdf)]
+* [2014 CIKM] **Graph-based Point-of-interest Recommendation with Geographical and Temporal Influences**. [[PDF](https://personal.ntu.edu.sg/axsun/paper/cikm14-yuan.pdf)] [[Datasets](https://personal.ntu.edu.sg/gaocong/data/poidata.zip)]
+* [2015 SIGIR] **Rank-GeoFM: A Ranking based Geographical Factorization Method for Point of Interest Recommendation**. [[PDF](https://personal.ntu.edu.sg/gaocong/papers/SIGIR2015_ID246.pdf)] [[Datasets](https://personal.ntu.edu.sg/gaocong/data/poidata.zip)]
 * [2016 KDD] **Point-of-Interest Recommendations: Learning Potential Check-ins from Friends**. [[PDF](https://www.kdd.org/kdd2016/papers/files/rfp0448-liA.pdf)]
 
 ### Sequential Recommendation
