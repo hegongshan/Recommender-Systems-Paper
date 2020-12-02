@@ -100,7 +100,7 @@
 
 * [2015 arXiv] NNMF: **Neural Network Matrix Factorization**. [[PDF](https://arxiv.org/pdf/1511.06443.pdf)]
 * [2016] **Deep Neural Networks for YouTube Recommendations**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190)]
-* [2016] **Wide & Deep Learning for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1606.07792.pdf)]
+* [2016 RecSys] **Wide & Deep Learning for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1606.07792.pdf)]
 * [2017 WWW] NCF: **Neural Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/www17-ncf.pdf)] [[Codes](https://github.com/hexiangnan/neural_collaborative_filtering)]
 * [2017 IJCAI] DMF: **Deep Matrix Factorization Models for Recommender Systems**. [[PDF](https://www.ijcai.org/Proceedings/2017/0447.pdf)]
 * [2017 CIKM] NNCF: **A Neural Collaborative Filtering Model with Interaction-based Neighborhood**. [[PDF](https://www.researchgate.net/profile/Ting_Bai/publication/320885772_A_Neural_Collaborative_Filtering_Model_with_Interaction-based_Neighborhood/links/5af0d300a6fdcc24364aca37/A-Neural-Collaborative-Filtering-Model-with-Interaction-based-Neighborhood.pdf)]
@@ -233,6 +233,7 @@
 ### Point-of-Interest (POI) Recommendation
 
 * [2011 SIGIR] **Exploiting Geographical Influence for Collaborative Point-of-Interest Recommendation**. [[PDF](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/p325.pdf)]
+* [2013 SIGIR] **Time-aware Point-of-interest Recommendation**. [[PDF](https://personal.ntu.edu.sg/axsun/paper/sun_sigir13quan.pdf)] [[Datasets](https://personal.ntu.edu.sg/gaocong/data/poidata.zip)]
 * [2013 KDD] **Learning Geographical Preferences for Point-of-Interest Recommendation**. [[PDF](http://binbenliu.github.io/papers/poi_kdd13.pdf)] [[Slides](http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/bin_liu07oct2013.pdf)]
 * [2013 CIKM] **Personalized Point-of-Interest Recommendation by Mining Users’ Preference Transition**. [[PDF](http://www.ntulily.org/wp-content/uploads/conference/Personalized_Point-of-Interest_Recommendation_by_Mining_Users_Preference_Transition_accepted.pdf)]
 * [2014 KDD] **GeoMF: Joint Geographical Modeling and Matrix Factorization for Point-of-Interest Recommendation**. [[PDF](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Defu-Lian-KDD.pdf)]
