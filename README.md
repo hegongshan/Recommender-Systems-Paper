@@ -31,7 +31,7 @@
 * [18.Others](#others)
   * [18.1 Evaluation Metrics](#evaluation-metrics)
   * [18.2 Embedding](#embedding)
-  * [18.3 Survey](#survey)
+  * [18.3 Survey on Recommender Systems](#survey-on-recommender-systems)
 
 ### Collaborative Filtering
 
@@ -267,8 +267,9 @@
 * [2016] **Item2Vec: Neural Item Embedding for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1603.04259.pdf)]
 * [2016] **node2vec: Scalable Feature Learning for Networks**. [[PDF](https://arxiv.org/pdf/1607.00653.pdf)]
 * [2018] **BiNE: Bipartite Network Embedding**. [[PDF](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-bipartiteNE.pdf)]
+* [2020] **A Survey on Heterogeneous Graph Embedding: Methods, Techniques, Applications and Sources**. [[PDF](https://arxiv.org/pdf/2011.14867.pdf)]
 
-#### Survey
+#### Survey on Recommender Systems
 
 * [2002] ***Hybrid Recommender Systems*: Survey and Experiments**. [[PDF](http://gamejam.cti.depaul.edu/~rburke/pubs/burke-umuai02.pdf)]
 * [2005 TKDE] **Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions**. [[PDF](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf)]
