@@ -283,5 +283,6 @@
 * [2018] ***Deep Learning based Recommender System*: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1707.07435.pdf)]
 * [2019] **A Survey on *Session-based* Recommender Systems**. [[PDF](https://arxiv.org/pdf/1902.04864.pdf)]
 * [2020] **A Survey on *Knowledge Graph*-Based Recommender Systems**. [[PDF](https://arxiv.org/pdf/2003.00911.pdf)]
-
 * [2020] **Deep Learning on *Knowledge Graph* for Recommender System: A Survey**. [[PDF](https://arxiv.org/pdf/2004.00387.pdf)]
+* [2020] ***Graph Neural Networks* in Recommender Systems: A Survey**. [[PDF](https://arxiv.org/pdf/2011.02260.pdf)]
+
