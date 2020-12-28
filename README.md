@@ -10,8 +10,9 @@
 * [3.Knowledge Graph based  Recommender Systems](#knowledge-graph)
 * [4.Hybrid Recommendation](#hybrid-recommendation)
 * [5.Deep Learning based  Recommender Systems](#deep-learning)
-  * [5.1 Multilayer Perceptron](#multilayer-perceptron-mlp)
-  * [5.2 Autoencoders](#autoencoders-ae)
+  * [5.1 Multilayer Perceptron (MLP)](#multilayer-perceptron-mlp)
+  * [5.2 Autoencoders (AE)](#autoencoders-ae)
+  * [5.3 Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
 * [6.Click-Through Rate (CTR) Prediction](#click-through-rate-ctr-prediction)
 * [7.Learning to Rank (LTR)](#learning-to-rank-ltr)
   * [7.1 Pairwise LTR](#pairwise-ltr)
@@ -117,7 +118,7 @@
 * [2017 KDD] CVAE: **Collaborative Variational Autoencoder for Recommender Systems**. [[PDF](http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)]
 * [2018 WWW] Mult-VAE: **Variational Autoencoders for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1802.05814.pdf)] [[Codes](https://github.com/dawenl/vae_cf)]
 
-#### Convolutional Neural Network (CNN)
+#### Convolutional Neural Networks (CNNs)
 
 * [2018 IJCAI] ONCF: **Outer Product-based Neural Collaborative Filtering**. [[PDF](https://www.ijcai.org/Proceedings/2018/0308.pdf)]
 
