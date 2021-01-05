@@ -183,14 +183,20 @@
 
 #### Graph Neural Networks (GNNs)
 
-* [2018 KDD] PinSage: **Graph Convolutional Neural Networks for Web-Scale Recommender Systems**. [[PDF](https://arxiv.org/pdf/1806.01973.pdf)]
+**Rating Prediction**
+
 * [2018 KDD] GCMC: **Graph Convolutional Matrix Completion**. [[PDF](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf)]
+* [2019 IJCAI] **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems**. [[PDF](https://www.ijcai.org/Proceedings/2019/0592.pdf)] [[Codes](https://github.com/jennyzhang0215/STAR-GCN)]
+* [2020 ICLR] IGMC: **Inductive Matrix Completion Based on Graph Neural Networks**. [[PDF](https://openreview.net/pdf?id=ByxxgCEYDS)] [[Codes](https://github.com/muhanzhang/IGMC)]
+
+**Top-N Recommendation**
+
+* [2018 KDD] PinSage: **Graph Convolutional Neural Networks for Web-Scale Recommender Systems**. [[PDF](https://arxiv.org/pdf/1806.01973.pdf)]
 * [2018 RecSys] SpectralCF: **Spectral Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1808.10523.pdf)] [[Codes](https://github.com/lzheng21/SpectralCF)]
 * [2019 SIGIR] NGCF: **Neural Graph Collaborative Filtering**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir19-NGCF.pdf)]
 * [2019 ICDM] Multi-GCCF: **Multi-Graph Convolution Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/2001.00267.pdf)]
 * [2020 AAAI] LR-GCCF: **Revisiting Graph Based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5330/5186)] [[Codes](https://github.com/newlei/LR-GCCF)]
 * [2020 SIGIR] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)] [[Codes](https://github.com/kuandeng/LightGCN)]
-* [2020 ICLR] IGMC: **Inductive Matrix Completion Based on Graph Neural Networks**. [[PDF](https://openreview.net/pdf?id=ByxxgCEYDS)] [[Codes](https://github.com/muhanzhang/IGMC)]
 
 #####  Disentangled GNN
 
@@ -261,7 +267,8 @@
 
 #### Evaluation Metrics
 
-* [2020] **On Sampled Metrics for Item Recommendation**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)]
+* [2020 KDD <strong style='color:red'>Best  paper</strong>] **On Sampled Metrics for Item Recommendation**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)]
+* [2021 AAAI] **On Estimating Recommendation Evaluation Metrics under Sampling**.
 
 #### Embedding
 
