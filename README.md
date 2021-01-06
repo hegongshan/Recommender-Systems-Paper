@@ -87,6 +87,7 @@
 ### Knowledge Graph
 
 * [2016] **Collaborative Knowledge Base Embedding for Recommender Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2939672.2939673)]
+* [2019 WWW] KGCN: **Knowledge Graph Convolutional Networks for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1904.12575.pdf)]
 
 ### Hybrid Recommendation
 
@@ -173,6 +174,8 @@
 * [2015 NIPS] **Collaborative Filtering with Graph Information: Consistency and Scalable Methods**. [[PDF](https://papers.nips.cc/paper/5938-collaborative-filtering-with-graph-information-consistency-and-scalable-methods.pdf)]
 
 #### Heterogeneous Information Networks (HIN)
+
+* [2013 RecSys] **Recommendation in heterogeneous information networks with implicit user feedback**. [[PDF](https://dl.acm.org/doi/10.1145/2507157.2507230)]
 
 * [2014 WWW] **Random Walks in Recommender Systems: Exact Computation and Simulations**. [[PDF](https://nms.kcl.ac.uk/colin.cooper/papers/recommender-rw.pdf)]
 * [2014 WSDM] HeteRec: **Personalized Entity Recommendation: A Heterogeneous Information Network Approach**.  [[PDF](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf)]
