@@ -216,6 +216,7 @@
 * [2018 AAAI] SERec: **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation**. [[PDF](https://arxiv.org/pdf/1711.11458.pdf)]
 * [2019 WWW] GraphRec: **Graph Neural Networks for Social Recommendation**. [[PDF](https://arxiv.org/pdf/1902.07243.pdf)]
 * [2019 SIGIR] DiffNet: **A neural influence diffusion model for social recommendation**. [[PDF](https://arxiv.org/pdf/1904.10322.pdf)]
+* [2021 TKDE] **DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation**. [[PDF](https://arxiv.org/pdf/2002.00844.pdf)]
 
 ### Cross-domain Recommendation
 
