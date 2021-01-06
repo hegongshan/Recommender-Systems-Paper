@@ -214,6 +214,7 @@
 * [2013 IJCAI] TrustMF: **Social Collaborative Filtering by Trust**. [[PDF](https://www.ijcai.org/Proceedings/13/Papers/404.pdf)]
 * [2015] **TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings**. [[PDF](https://guoguibing.github.io/papers/guo2015trustsvd.pdf)]
 * [2018 AAAI] SERec: **Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation**. [[PDF](https://arxiv.org/pdf/1711.11458.pdf)]
+* [2019 WWW] GraphRec: **Graph Neural Networks for Social Recommendation**. [[PDF](https://arxiv.org/pdf/1902.07243.pdf)]
 
 ### Cross-domain Recommendation
 
