@@ -179,6 +179,7 @@
 * [2016 TKDE] HeteRS: **A General Recommendation Model for Heterogeneous Networks**. [[PDF](https://ieeexplore.ieee.org/document/7546911)]
 * [2017 KDD] FMG: **Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks**. [[PDF](https://www.researchgate.net/publication/317523407_Meta-Graph_Based_Recommendation_Fusion_over_Heterogeneous_Information_Networks)] [[Codes](https://github.com/HKUST-KnowComp/FMG)]
 * [2018 WSDM] HeteLearn: **Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3159652.3159715)]
+* [2018 TKDE] HERec: **Heterogeneous information network embedding for recommendation**. [[PDF](https://arxiv.org/pdf/1711.10730.pdf)]
 * [2019 IJCAI] HueRec: **Unified Embedding Model over Heterogeneous Information Network for Personalized Recommendation**. [[PDF](https://www.ijcai.org/Proceedings/2019/0529.pdf)]
 
 #### Graph Neural Networks (GNNs)
