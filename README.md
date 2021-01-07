@@ -87,7 +87,9 @@
 ### Knowledge Graph
 
 * [2016] **Collaborative Knowledge Base Embedding for Recommender Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2939672.2939673)]
-* [2019 WWW] KGCN: **Knowledge Graph Convolutional Networks for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1904.12575.pdf)]
+* [2019 WWW] KGCN: **Knowledge Graph Convolutional Networks for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1904.12575.pdf)] [[Codes](https://github.com/hwwang55/KGCN)]
+* [2019 KDD] KGNN-LS: **Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1905.04413.pdf)] [[Codes](https://github.com/hwwang55/KGNN-LS)]
+* [2019 KDD] **KGAT: Knowledge Graph Attention Network for Recommendation**. [[PDF](https://arxiv.org/pdf/1905.07854.pdf)]
 
 ### Hybrid Recommendation
 
@@ -283,6 +285,7 @@
 * [2014] **DeepWalk: Online Learning of Social Representations**. [[PDF](https://arxiv.org/pdf/1403.6652.pdf)]
 * [2016] **Item2Vec: Neural Item Embedding for Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/1603.04259.pdf)]
 * [2016] **node2vec: Scalable Feature Learning for Networks**. [[PDF](https://arxiv.org/pdf/1607.00653.pdf)]
+* [2017 KDD] **metapath2vec: Scalable Representation Learning for Heterogeneous Networks**. [[PDF](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf)]
 * [2018] **BiNE: Bipartite Network Embedding**. [[PDF](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-bipartiteNE.pdf)]
 * [2020] **A Survey on Heterogeneous Graph Embedding: Methods, Techniques, Applications and Sources**. [[PDF](https://arxiv.org/pdf/2011.14867.pdf)]
 
