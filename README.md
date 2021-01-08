@@ -306,4 +306,5 @@
 * [2020] **A Survey on *Knowledge Graph*-Based Recommender Systems**. [[PDF](https://arxiv.org/pdf/2003.00911.pdf)]
 * [2020] **Deep Learning on *Knowledge Graph* for Recommender System: A Survey**. [[PDF](https://arxiv.org/pdf/2004.00387.pdf)]
 * [2020] ***Graph Neural Networks* in Recommender Systems: A Survey**. [[PDF](https://arxiv.org/pdf/2011.02260.pdf)]
+* [2021 TKDE] ***Bias and Debias* in Recommender System: A Survey and Future Directions**. [[PDF](https://arxiv.org/pdf/2010.03240.pdf)]
 
