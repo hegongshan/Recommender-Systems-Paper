@@ -1,15 +1,15 @@
 ## Recommender Systems (RS)
 
-* [1.Collaborative Filtering based Recommender Systems](#collaborative-filtering)
+* [1.Collaborative Filtering based Recommendation](#collaborative-filtering)
   * [1.1 Neighborhood-based CF](#neighborhood-based)
   * [1.2 Model-based CF](#model-based)
     * [1.2.1 Matrix Factorization](#matrix-factorization)
     * [1.2.2 Metric Learning](#metric-learning)
-* [2.Content-based Recommender Systems](#content-based)
+* [2.Content-based Recommendation](#content-based)
   * [2.1 Review-based Recommendation](#review-based-recommendation)
-* [3.Knowledge Graph based  Recommender Systems](#knowledge-graph)
+* [3.Knowledge Graph based  Recommendation](#knowledge-graph)
 * [4.Hybrid Recommendation](#hybrid-recommendation)
-* [5.Deep Learning based  Recommender Systems](#deep-learning)
+* [5.Deep Learning based  Recommendation](#deep-learning)
   * [5.1 Multilayer Perceptron (MLP)](#multilayer-perceptron-mlp)
   * [5.2 Autoencoders (AE)](#autoencoders-ae)
   * [5.3 Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
@@ -74,7 +74,9 @@
 * [2017 WWW] CML: **Collaborative Metric Learning**. [[PDF](https://vision.cornell.edu/se3/wp-content/uploads/2017/03/WWW-fp0554-hsiehA.pdf)]
 * [2018 WWW] LRML: **Latent relational metric learning via memory-based attention for collaborative ranking**. [[PDF](https://arxiv.org/pdf/1707.05176.pdf)]
 * [2018 arXiv] **Metric Factorization: Recommendation beyond Matrix Factorization**. [[PDF](https://arxiv.org/pdf/1802.04606.pdf)]
+* [2018 ICDM] TransCF: **Collaborative Translational Metric Learning**. [[PDF](https://arxiv.org/pdf/1906.01637.pdf)]
 * [2020 AAAI] SML: **Symmetric Metric Learning with Adaptive Margin for Recommendation**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5894/5750)]
+* [2020 KDD] PMLAM: **Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation**. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403147)]
 
 ### Content-based
 
@@ -272,6 +274,10 @@
 
 * [2013 CIKM] **Interactive Collaborative Filtering**. [[PDF](http://www0.cs.ucl.ac.uk/staff/w.zhang/papers/icf-cikm.pdf)]
 * [2018 SIGIR] **Conversational Recommender System**. [[PDF](https://arxiv.org/pdf/1806.03277.pdf)]
+
+### Debias
+
+* [2021 WSDM] **Denoising Implicit Feedback for Recommendation**. [[PDF](https://arxiv.org/pdf/2006.04153.pdf)]
 
 ### Others
 
