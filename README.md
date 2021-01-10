@@ -25,7 +25,7 @@
 * [9.Social Recommendation](#social-recommendation)
 * [10.Cross-domain Recommendation](#cross-domain-recommendation)
 * [11.Group Recommendation](#group-recommendation)
-* [12.Cold Start Problem](#cold-start-problem)
+* [12.Cold Start Recommendation](#cold-start-recommendation)
 * [13.Point-of-Interest (POI) Recommendation](#point-of-interest-poi-recommendation)
 * [14.Context-aware Recommendation](#context-aware-recommendation)
 * [15.Sequential Recommendation](#sequential-recommendation)
@@ -244,7 +244,7 @@
 
 * [2009 VLDB] **Group Recommendation: Semantics and Efficiency**. [[PDF](https://www.researchgate.net/profile/Sihem_Amer-Yahia/publication/234829365_Group_Recommendation_Semantics_and_Efficiency/links/54f9c4e10cf25371374ff92e/Group-Recommendation-Semantics-and-Efficiency.pdf)]
 
-### Cold Start Problem
+### Cold Start Recommendation
 
 * [2002 SIGIR] **Methods and Metrics for Cold-Start Recommendations**. [[PDF](https://dl.acm.org/doi/10.1145/564376.564421)]
 * [2008 ICUIMC] **Addressing Cold-Start Problem in Recommendation Systems**. [[PDF](https://dl.acm.org/doi/10.1145/1352793.1352837)]
@@ -308,6 +308,7 @@
 
 * [2002] ***Hybrid Recommender Systems*: Survey and Experiments**. [[PDF](http://gamejam.cti.depaul.edu/~rburke/pubs/burke-umuai02.pdf)]
 * [2005 TKDE] **Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions**. [[PDF](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf)]
+* [2009] **A Survey of Collaborative Filtering Techniques**. [[PDF](https://downloads.hindawi.com/archive/2009/421425.pdf)]
 * [2012] ***Context-aware Recommender Systems* for Learning: a Survey and Future Challenges**. [[PDF](https://www.researchgate.net/profile/Hendrik_Drachsler/publication/234057252_Context-Aware_Recommender_Systems_for_Learning_A_Survey_and_Future_Challenges/links/09e4150eacc85f2864000000.pdf)]
 * [2012] ***Cross-domain recommender systems*: A survey of the State of the Art**. [[PDF](https://www.researchgate.net/profile/Francesco_Ricci5/publication/267227272_Cross-domain_recommender_systems_A_survey_of_the_State_of_the_Art/links/5469d3d00cf20dedafd10b29.pdf)]
 * [2013] **A survey of collaborative filtering based *social recommender systems***. [[PDF](https://romisatriawahono.net/lecture/rm/survey/information%20retrieval/Yang%20-%20Social%20Recommender%20Systems%20-%202014.pdf)]
