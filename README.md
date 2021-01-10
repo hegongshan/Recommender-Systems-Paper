@@ -4,7 +4,9 @@
   * [1.1 Neighborhood-based CF](#neighborhood-based)
   * [1.2 Model-based CF](#model-based)
     * [1.2.1 Matrix Factorization](#matrix-factorization)
-    * [1.2.2 Metric Learning](#metric-learning)
+    * [1.2.2 Distance-based CF](#distance-based-cf)
+      * [1.2.2.1 Euclidean Embedding](#euclidean-embedding)
+      * [1.2.2.2 Metric Learning](#metric-learning)
 * [2.Content-based Recommendation](#content-based)
   * [2.1 Review-based Recommendation](#review-based-recommendation)
 * [3.Knowledge Graph based  Recommendation](#knowledge-graph)
@@ -69,7 +71,14 @@
 * [2016 SIGIR] eALS: **Fast Matrix Factorization for Online Recommendation with Implicit Feedback**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf)] [[Codes](https://github.com/hexiangnan/sigir16-eals/)]
 * [2020 RecSys] **Neural Collaborative Filtering vs. Matrix Factorization Revisited**. [[PDF](https://arxiv.org/pdf/2005.09683.pdf)] [[Codes](https://github.com/google-research/google-research/tree/master/dot_vs_learned_similarity)]
 
-##### Metric Learning
+##### Distance-based CF
+
+###### Euclidean Embedding
+
+* [2010 RecSys] EE: **Collaborative Filtering via Euclidean Embedding**. [[PDF](https://dollar.biz.uiowa.edu/~nstreet/research/recsys10_cfmds.pdf)]
+* [2012 APWeb] TEE: **Collaborative Filtering via Temporal Euclidean Embedding**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=36EA6B84B716E282C059541BD0C0AEC9?doi=10.1.1.302.9485&rep=rep1&type=pdf)]
+
+###### Metric Learning
 
 * [2017 WWW] CML: **Collaborative Metric Learning**. [[PDF](https://vision.cornell.edu/se3/wp-content/uploads/2017/03/WWW-fp0554-hsiehA.pdf)]
 * [2018 WWW] LRML: **Latent relational metric learning via memory-based attention for collaborative ranking**. [[PDF](https://arxiv.org/pdf/1707.05176.pdf)]
