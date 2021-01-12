@@ -320,6 +320,7 @@
 * [2018] ***Explainable Recommendation*: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1804.11192.pdf)] 
 * [2018] ***Deep Learning based Recommender System*: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1707.07435.pdf)]
 * [2019] **A Survey on *Session-based* Recommender Systems**. [[PDF](https://arxiv.org/pdf/1902.04864.pdf)]
+* [2019] **Research Commentary on Recommendations with *Side Information*: A Survey and Research Directions**. [[PDF](https://arxiv.org/pdf/1909.12807.pdf)]
 * [2020] **A Survey on *Knowledge Graph*-Based Recommender Systems**. [[PDF](https://arxiv.org/pdf/2003.00911.pdf)]
 * [2020] **Survey of *Privacy-Preserving* Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/2003.08343.pdf)]
 * [2020] **Deep Learning on *Knowledge Graph* for Recommender System: A Survey**. [[PDF](https://arxiv.org/pdf/2004.00387.pdf)]
