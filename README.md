@@ -272,6 +272,9 @@
 
 ### Sequential Recommendation
 
+aka. **Next-item Recommendation** or **Next-basket Recommendation**
+
+* [2017 RecSys] TransRec: **Translation-based Recommendation**. [[PDF](https://arxiv.org/pdf/1707.02410.pdf)]
 * [2018 WSDM] **Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding**. [[PDF](https://arxiv.org/pdf/1809.07426.pdf)]
 * [2018 ICDM] SASRec: **Self-Attentive Sequential Recommendation**. [[PDF](https://arxiv.org/pdf/1808.09781.pdf)]
 
