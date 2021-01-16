@@ -319,6 +319,7 @@ aka. **Next-item Recommendation** or **Next-basket Recommendation**
 * [2014] **Collaborative filtering beyond the user-item matrix: A survey of the state of the art and future challenges**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2556270)]
 * [2014] ***Group Recommendations*: Survey and Perspectives**. [[PDF](https://www.researchgate.net/profile/Michal_Kompan/publication/275544963_Group_Recommendations_Survey_and_Perspectives/links/553f56ce0cf24c6a05d2023b.pdf)]
 * [2014] ***Active Learning* in Collaborative Filtering Recommender Systems**. [[PDF](http://www.inf.unibz.it/~fricci/papers/al-ec-web-2014.pdf)]
+* [2015] **Survey on Learning-to-Rank Based Recommendation Algorithms**. [[PDF](http://jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=4948&journal_id=jos)]
 * [2016] **A Survey of *Point-of-interest Recommendation* in Location-based Social Networks**. [[PDF](https://arxiv.org/pdf/1607.00647.pdf)]
 * [2018] ***Explainable Recommendation*: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1804.11192.pdf)] 
 * [2018] ***Deep Learning based Recommender System*: A Survey and New Perspectives**. [[PDF](https://arxiv.org/pdf/1707.07435.pdf)]
@@ -327,6 +328,7 @@ aka. **Next-item Recommendation** or **Next-basket Recommendation**
 * [2020] **A Survey on *Knowledge Graph*-Based Recommender Systems**. [[PDF](https://arxiv.org/pdf/2003.00911.pdf)]
 * [2020] **Survey of *Privacy-Preserving* Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/2003.08343.pdf)]
 * [2020] **Deep Learning on *Knowledge Graph* for Recommender System: A Survey**. [[PDF](https://arxiv.org/pdf/2004.00387.pdf)]
+* [2020] **A Survey on *Conversational* Recommender Systems**. [[PDF](https://arxiv.org/pdf/2004.00646.pdf)]
 * [2020] ***Graph Neural Networks* in Recommender Systems: A Survey**. [[PDF](https://arxiv.org/pdf/2011.02260.pdf)]
 * [2021 TKDE] ***Bias and Debias* in Recommender System: A Survey and Future Directions**. [[PDF](https://arxiv.org/pdf/2010.03240.pdf)]
 
