@@ -243,6 +243,7 @@
 ### Group Recommendation
 
 * [2009 VLDB] **Group Recommendation: Semantics and Efficiency**. [[PDF](https://www.researchgate.net/profile/Sihem_Amer-Yahia/publication/234829365_Group_Recommendation_Semantics_and_Efficiency/links/54f9c4e10cf25371374ff92e/Group-Recommendation-Semantics-and-Efficiency.pdf)]
+* [2018 SIGIR] AGREE: **Attentive Group Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir18-groupRS.pdf)] [[Codes](https://github.com/LianHaiMiao/Attentive-Group-Recommendation)] [[Slides](http://staff.ustc.edu.cn/~hexn/slides/sigir18-group-recsys.pdf)]
 
 ### Cold Start Recommendation
 
