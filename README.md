@@ -123,6 +123,7 @@
 * [2017 IJCAI] DMF: **Deep Matrix Factorization Models for Recommender Systems**. [[PDF](https://www.ijcai.org/Proceedings/2017/0447.pdf)]
 * [2017 CIKM] NNCF: **A Neural Collaborative Filtering Model with Interaction-based Neighborhood**. [[PDF](https://www.researchgate.net/profile/Ting_Bai/publication/320885772_A_Neural_Collaborative_Filtering_Model_with_Interaction-based_Neighborhood/links/5af0d300a6fdcc24364aca37/A-Neural-Collaborative-Filtering-Model-with-Interaction-based-Neighborhood.pdf)]
 * [2018 IJCAI] **DELF: A Dual-Embedding based Deep Latent Factor Model for Recommendation**. [[PDF](https://www.ijcai.org/Proceedings/2018/0462.pdf)]
+* [2018 TKDE] **NAIS: Neural Attentive Item Similarity Model for Recommendation**. [[PDF](https://arxiv.org/pdf/1809.07053.pdf)]
 * [2019 AAAI] **DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System**. [[PDF](https://arxiv.org/pdf/1901.04704.pdf)] [[Codes](https://github.com/familyld/DeepCF)]
 * [2019 TOIS] DeepICF: **Deep Item-based Collaborative Filtering for Top-N Recommendation**. [[PDF](https://arxiv.org/pdf/1811.04392.pdf)] [[Codes](https://github.com/linzh92/DeepICF)]
 * [2019 TOIS] J-NCF: **Joint Neural Collaborative Filtering for Recommender Systems**. [[PDF](https://arxiv.org/pdf/1907.03459.pdf)]
