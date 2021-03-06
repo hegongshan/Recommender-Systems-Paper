@@ -12,7 +12,7 @@
 * [3.Knowledge Graph based  Recommendation](#knowledge-graph)
 * [4.Hybrid Recommendation](#hybrid-recommendation)
 * [5.Deep Learning based  Recommendation](#deep-learning)
-  * [5.1 Multilayer Perceptron (MLP)](#multilayer-perceptron-mlp)
+  * [5.1 Multi-layer Perceptron (MLP)](#multi-layer-perceptron-mlp)
   * [5.2 Autoencoders (AE)](#autoencoders-ae)
   * [5.3 Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
 * [6.Click-Through Rate (CTR) Prediction](#click-through-rate-ctr-prediction)
@@ -37,6 +37,9 @@
   * [18.3 Survey on Recommender Systems](#survey-on-recommender-systems)
 
 ### Collaborative Filtering
+
+* [1992] **Using collaborative filtering to weave an information Tapestry**. [[PDF](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=00569AFBC79FB7CC64911E5C977EAC7D?doi=10.1.1.104.3739&rep=rep1&type=pdf)]
+* [1994] **GroupLens: An Open Architecture for Collaborative Filtering of Netnews**. [[PDF](http://brettb.net/project/papers/1994%20GroupLens%20an%20open%20architecture%20for%20collaborative%20filtering%20of%20netnews.pdf)]
 
 #### Neighborhood-based
 
@@ -111,7 +114,7 @@
 * [2007] RBM: **Restricted Boltzmann Machines for Collaborative Filtering**. [[PDF](http://www.cs.toronto.edu/~amnih/papers/rbmcf.pdf)]
 * [2018 SIGIR] CMN: **Collaborative Memory Network for Recommendation Systems**. [[PDF](https://arxiv.org/pdf/1804.10862.pdf)]
 
-#### Multilayer Perceptron (MLP)
+#### Multi-layer Perceptron (MLP)
 
 * [2015 arXiv] NNMF: **Neural Network Matrix Factorization**. [[PDF](https://arxiv.org/pdf/1511.06443.pdf)]
 * [2016] **Deep Neural Networks for YouTube Recommendations**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190)]
@@ -151,7 +154,7 @@
 #### Pairwise LTR
 
 * [2008] **EigenRank: A Ranking-Oriented Approach to Collaborative Filtering**. [[PDF](http://www.cse.ust.hk/faculty/qyang/Docs/2008/SIGIR297-liu.pdf)]
-* [2009] **BPR: Bayesian Personalized Ranking from Implicit Feedback**. [[PDF](https://arxiv.org/pdf/1205.2618.pdf)]
+* [2009 UAI] **BPR: Bayesian Personalized Ranking from Implicit Feedback**. [[PDF](https://arxiv.org/pdf/1205.2618.pdf)]
 * [2012] **Collaborative Ranking**. [[PDF](https://dl.acm.org/doi/10.1145/2124295.2124314)]
 * [2012 JMLR] RankSGD: **Collaborative Filtering Ensemble for Ranking**. [[PDF](http://proceedings.mlr.press/v18/jahrer12b/jahrer12b.pdf)]
 * [2012 RecSys] RankALS: **Alternating Least Squares for Personalized Ranking**. [[PDF](https://www.researchgate.net/profile/Gabor_Takacs3/publication/254464370_Alternating_least_squares_for_personalized_ranking/links/5444216d0cf2e6f0c0fb9cdc.pdf)] 
