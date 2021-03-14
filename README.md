@@ -62,15 +62,16 @@
 * [2004 NIPS] MMMF: **Maximum-Margin Matrix Factorization**. [[PDF](https://papers.nips.cc/paper/2655-maximum-margin-matrix-factorization.pdf)]
 * [2005 ICML] **Fast Maximum Margin Matrix Factorization for Collaborative Prediction**. [[PDF](https://icml.cc/Conferences/2005/proceedings/papers/090_FastMaxmimum_RennieSrebro.pdf)]
 * [2006] FunkSVD (Latent Factor Model, LFM): **Netflix Update: Try This at Home**. http://sifter.org/~simon/journal/20061211.html
-* [2007] PMF: **Probabilistic matrix factorization**. [[PDF](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)]
-* [2007] NSVD: **Improving regularized singular value decomposition for collaborative filtering**. [[PDF](http://arek-paterek.com/ap_kdd.pdf)]
-* [2008] **One-Class Collaborative Filtering**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4781145)]
-* [2008] WRMF: **Collaborative Filtering for Implicit Feedback Datasets**. [[PDF](http://yifanhu.net/PUB/cf.pdf)]
-* [2008] SVD++: **Factorization meets the neighborhood: a multifaceted collaborative filtering model**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1401890.1401944)]
-* [2009] timeSVD: **Collaborative filtering with temporal dynamics**. [[PDF](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p447-koren.pdf)]
+* [2007 KDD] NSVD: **Improving regularized singular value decomposition for collaborative filtering**. [[PDF](http://arek-paterek.com/ap_kdd.pdf)]
+* [2007 NIPS] PMF: **Probabilistic matrix factorization**. [[PDF](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)]
+* [2008 ICML] BPMF: **Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo**. [[PDF](https://icml.cc/Conferences/2008/papers/600.pdf)]
+* [2008 KDD] SVD++: **Factorization meets the neighborhood: a multifaceted collaborative filtering model**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1401890.1401944)]
+* [2008 ICDM] **One-Class Collaborative Filtering**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4781145)]
+* [2008 ICDM] WRMF: **Collaborative Filtering for Implicit Feedback Datasets**. [[PDF](http://yifanhu.net/PUB/cf.pdf)]
+* [2009 KDD] timeSVD: **Collaborative filtering with temporal dynamics**. [[PDF](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p447-koren.pdf)]
 * [2009] BiasedMF: **Matrix Factorization Techniques for Recommender Systems**. [[PDF](http://www.columbia.edu/~jwp2128/Teaching/E4903/papers/ieeecomputer.pdf)]
 * [2010] PureSVD: **Performance of Recommender Algorithms on Top-N Recommendation Tasks**. [[PDF](https://tooob.com/api/objs/read/noteid/28575258/)]
-* [2011] **Feature-Based Matrix Factorization**. [[PDF](https://arxiv.org/pdf/1109.2271.pdf)]
+* [2011 arXiv] **Feature-Based Matrix Factorization**. [[PDF](https://arxiv.org/pdf/1109.2271.pdf)]
 * [2012 JMLR] **SVDFeature: A Toolkit for Feature-based Collaborative Filtering**. [[PDF](https://jmlr.org/papers/volume13/chen12a/chen12a.pdf)]
 * [2014 NIPS] Logistic MF: **Logistic Matrix Factorization for Implicit Feedback Data**. [[PDF](http://stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf)] [[Codes](https://github.com/MrChrisJohnson/logistic-mf)]
 * [2016 SIGIR] eALS: **Fast Matrix Factorization for Online Recommendation with Implicit Feedback**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf)] [[Codes](https://github.com/hexiangnan/sigir16-eals/)]
@@ -220,6 +221,7 @@
 * [2019 ICDM] Multi-GCCF: **Multi-Graph Convolution Collaborative Filtering**. [[PDF](https://arxiv.org/pdf/2001.00267.pdf)]
 * [2020 AAAI] LR-GCCF: **Revisiting Graph Based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5330/5186)] [[Codes](https://github.com/newlei/LR-GCCF)]
 * [2020 SIGIR] **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation**. [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf)] [[Codes](https://github.com/kuandeng/LightGCN)]
+* [2021 WWW] IMP-GCN: **Interest-aware Message-Passing GCN for Recommendation**. [[PDF](https://arxiv.org/pdf/2102.10044.pdf)]
 
 #####  Disentangled GNN
 
