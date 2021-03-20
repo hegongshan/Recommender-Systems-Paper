@@ -38,11 +38,14 @@
 
 ### Collaborative Filtering
 
-* [1992] **Using collaborative filtering to weave an information Tapestry**. [[PDF](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=00569AFBC79FB7CC64911E5C977EAC7D?doi=10.1.1.104.3739&rep=rep1&type=pdf)]
-* [1994] **GroupLens: An Open Architecture for Collaborative Filtering of Netnews**. [[PDF](http://brettb.net/project/papers/1994%20GroupLens%20an%20open%20architecture%20for%20collaborative%20filtering%20of%20netnews.pdf)]
+* [1992 CACM] **Using collaborative filtering to weave an information Tapestry**. [[PDF](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=00569AFBC79FB7CC64911E5C977EAC7D?doi=10.1.1.104.3739&rep=rep1&type=pdf)]
+
+> Collaborative Filtering (CF) was firstly proposed.
 
 #### Neighborhood-based
 
+* [1994 CSCW] UserCF: **GroupLens: An Open Architecture for Collaborative Filtering of Netnews**. [[PDF](http://brettb.net/project/papers/1994%20GroupLens%20an%20open%20architecture%20for%20collaborative%20filtering%20of%20netnews.pdf)]
+* [1995 CHI] **Social information filtering: algorithms for automating “word of mouth”**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.100.5571&rep=rep1&type=pdf)]
 * [2001 WWW] ItemCF: **Item-Based Collaborative Filtering Recommendation Algorithms**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/371920.372071)]
 * [2003] **Amazon.com recommendations: item-to-item collaborative filtering**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1167344)]
 * [2004 TOIS] ItemKNN: **Item-Based Top-N Recommendation Algorithms**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/itemrsTOIS04.pdf)]
@@ -54,11 +57,11 @@
 #### Model-based
 
 * [1999 IJCAI] **Latent Class Models for Collaborative Filtering**. [[PDF](https://www.ijcai.org/Proceedings/99-2/Papers/005.pdf)]
-* [2004 TOIS] **Latent Semantic Models for Collaborative Filtering**. [[PDF](https://cs.brynmawr.edu/Courses/cs380/fall2006/p89-hofmann.pdf)]
+* [2004 TOIS] pLSA: **Latent Semantic Models for Collaborative Filtering**. [[PDF](https://cs.brynmawr.edu/Courses/cs380/fall2006/p89-hofmann.pdf)]
 
 ##### Matrix Factorization
 
-* [1998] SVD: **Learning Collaborative Information Filters**. [[PDF](https://www.ics.uci.edu/~pazzani/Publications/MLC98.pdf)]
+* [1998 ICML] SVD: **Learning Collaborative Information Filters**. [[PDF](https://www.ics.uci.edu/~pazzani/Publications/MLC98.pdf)]
 * [2004 NIPS] MMMF: **Maximum-Margin Matrix Factorization**. [[PDF](https://papers.nips.cc/paper/2655-maximum-margin-matrix-factorization.pdf)]
 * [2005 ICML] **Fast Maximum Margin Matrix Factorization for Collaborative Prediction**. [[PDF](https://icml.cc/Conferences/2005/proceedings/papers/090_FastMaxmimum_RennieSrebro.pdf)]
 * [2006] FunkSVD (Latent Factor Model, LFM): **Netflix Update: Try This at Home**. http://sifter.org/~simon/journal/20061211.html
@@ -88,7 +91,7 @@
 
 * [2017 WWW] CML: **Collaborative Metric Learning**. [[PDF](https://vision.cornell.edu/se3/wp-content/uploads/2017/03/WWW-fp0554-hsiehA.pdf)]
 * [2018 WWW] LRML: **Latent relational metric learning via memory-based attention for collaborative ranking**. [[PDF](https://arxiv.org/pdf/1707.05176.pdf)]
-* [2018 arXiv] **Metric Factorization: Recommendation beyond Matrix Factorization**. [[PDF](https://arxiv.org/pdf/1802.04606.pdf)]
+* [2018 arXiv] MetricF: **Metric Factorization: Recommendation beyond Matrix Factorization**. [[PDF](https://arxiv.org/pdf/1802.04606.pdf)]
 * [2018 ICDM] TransCF: **Collaborative Translational Metric Learning**. [[PDF](https://arxiv.org/pdf/1906.01637.pdf)]
 * [2020 AAAI] SML: **Symmetric Metric Learning with Adaptive Margin for Recommendation**. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5894/5750)]
 * [2020 KDD] PMLAM: **Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation**. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403147)]
