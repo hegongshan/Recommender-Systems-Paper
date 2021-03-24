@@ -53,6 +53,7 @@
 * [2011 ICDM] **Slim: Sparse linear methods for top-n recommender systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf)]
 * [2013 KDD] **FISM: Factored Item Similarity Models for Top-N Recommender Systems**. [[PDF](http://glaros.dtc.umn.edu/gkhome/fetch/papers/fismkdd13.pdf)]
 * [2014 PAKDD] **HOSLIM: Higher-Order Sparse LInear Method for Top-N Recommender Systems**. [[PDF](https://www-users.cs.umn.edu/~chri2951/hoslim14pakdd.pdf)]
+* [2016 RecSys] GLSLIM: **Local Item-Item Models for Top-N Recommendation**. [[PDF](https://www-users.cs.umn.edu/~chri2951/recsy368-christakopoulouA.pdf)]
 
 #### Model-based
 
@@ -307,8 +308,10 @@ aka. **Next-item Recommendation** or **Next-basket Recommendation**
 
 #### Evaluation Metrics
 
+* [2004 TOIS] **Evaluating Collaborative Filtering Recommender Systems**. [[PDF](https://grouplens.org/site-content/uploads/evaluating-TOIS-20041.pdf)]
 * [2020 KDD <strong style='color:red'>Best  paper</strong>] **On Sampled Metrics for Item Recommendation**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226)]
-* [2021 AAAI] **On Estimating Recommendation Evaluation Metrics under Sampling**.
+* [2020 KDD] **On Sampling Top-K Recommendation Evaluation**. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403262)]
+* [2021 AAAI] **On Estimating Recommendation Evaluation Metrics under Sampling**. [[PDF](https://arxiv.org/pdf/2103.01474.pdf)]
 
 #### Network Embedding
 
